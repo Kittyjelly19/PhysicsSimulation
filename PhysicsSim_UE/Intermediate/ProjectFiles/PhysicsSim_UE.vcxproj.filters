@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PhysicsSim_UE.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{8D0C02B2-C662-49BD-9854-68A89AA80661}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsSim_UE.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PhysicsSim_UEEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{94F880A4-2A4F-41A5-927F-712E4B4B697A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PhysicsSim_UE">
+      <UniqueIdentifier>{2A1889EC-75B5-4E3C-8DC4-9A978273A047}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UE.Build.cs">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UE.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UE.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UEGameModeBase.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UEGameModeBase.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
