@@ -42,4 +42,20 @@
       <Filter>Source\PhysicsSim_UE</Filter>
     </ClInclude>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\NewtonBall.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\EulerBall.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\NewtonBall.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\EulerBall.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
