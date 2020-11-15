@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 	PHYSICSSIM_UE_API UClass* Z_Construct_UClass_AEulerBall();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_PhysicsSim_UE();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 // End Cross Module References
 	void AEulerBall::StaticRegisterNativesAEulerBall()
 	{
@@ -31,6 +32,11 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_startVel_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_startVel;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
 	};
@@ -44,6 +50,16 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 		{ "ModuleRelativePath", "EulerBall.h" },
 	};
 #endif
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel_MetaData[] = {
+		{ "Category", "n_Ball" },
+		{ "ModuleRelativePath", "EulerBall.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel = { UE4CodeGen_Private::EPropertyClass::Struct, "startVel", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0020080000000001, 1, nullptr, STRUCT_OFFSET(AEulerBall, startVel), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel_MetaData, ARRAY_COUNT(Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AEulerBall_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel,
+	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_AEulerBall_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<AEulerBall>::IsAbstract,
 	};
@@ -52,7 +68,7 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 		DependentSingletons, ARRAY_COUNT(DependentSingletons),
 		0x009000A0u,
 		nullptr, 0,
-		nullptr, 0,
+		Z_Construct_UClass_AEulerBall_Statics::PropPointers, ARRAY_COUNT(Z_Construct_UClass_AEulerBall_Statics::PropPointers),
 		nullptr,
 		&StaticCppClassTypeInfo,
 		nullptr, 0,
@@ -67,7 +83,7 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEulerBall, 2730660196);
+	IMPLEMENT_CLASS(AEulerBall, 3058601561);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AEulerBall(Z_Construct_UClass_AEulerBall, &AEulerBall::StaticClass, TEXT("/Script/PhysicsSim_UE"), TEXT("AEulerBall"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEulerBall);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

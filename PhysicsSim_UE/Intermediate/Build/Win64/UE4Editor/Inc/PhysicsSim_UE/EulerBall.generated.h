@@ -57,7 +57,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AEulerBall); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AEulerBall)
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_EulerBall_h_12_PRIVATE_PROPERTY_OFFSET
+#define PhysicsSim_UE_Source_PhysicsSim_UE_EulerBall_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__startVel() { return STRUCT_OFFSET(AEulerBall, startVel); }
+
+
 #define PhysicsSim_UE_Source_PhysicsSim_UE_EulerBall_h_9_PROLOG
 #define PhysicsSim_UE_Source_PhysicsSim_UE_EulerBall_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
