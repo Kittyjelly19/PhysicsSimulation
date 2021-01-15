@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PhysicsSim_UE.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8D0C02B2-C662-49BD-9854-68A89AA80661}</UniqueIdentifier>
+      <UniqueIdentifier>{6E82357A-C293-489C-A131-C5A3A2B842DF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PhysicsSim_UE.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{94F880A4-2A4F-41A5-927F-712E4B4B697A}</UniqueIdentifier>
+      <UniqueIdentifier>{4D152F6E-1EB5-4056-9B64-744B51E973BE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,26 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PhysicsSim_UE">
-      <UniqueIdentifier>{2A1889EC-75B5-4E3C-8DC4-9A978273A047}</UniqueIdentifier>
+      <UniqueIdentifier>{969E649F-A14A-4C97-A7D8-AEB0BF059D9A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\EulerBall.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\EulerBall.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\MovingSphere.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\MovingSphere.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\NewtonBall.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\NewtonBall.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
     <None Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UE.Build.cs">
       <Filter>Source\PhysicsSim_UE</Filter>
     </None>
@@ -41,21 +59,11 @@
     <ClInclude Include="..\..\Source\PhysicsSim_UE\PhysicsSim_UEGameModeBase.h">
       <Filter>Source\PhysicsSim_UE</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\PhysicsSim_UE\NewtonBall.h">
-      <Filter>Source\PhysicsSim_UE</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\PhysicsSim_UE\EulerBall.h">
-      <Filter>Source\PhysicsSim_UE</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\PhysicsSim_UE\NewtonBall.cpp">
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\StaticSphere.cpp">
       <Filter>Source\PhysicsSim_UE</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Source\PhysicsSim_UE\EulerBall.cpp">
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\StaticSphere.h">
       <Filter>Source\PhysicsSim_UE</Filter>
-    </ClCompile>
+    </ClInclude>
   </ItemGroup>
 </Project>

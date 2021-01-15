@@ -1,16 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\betha\Documents\GitHub\PhysicsSimulation).
   Creating makefile for PhysicsSim_UEEditor (source directory changed)
-  Using Visual Studio 2017 14.27.29110 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Using Visual Studio 2017 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   Parsing headers for PhysicsSim_UEEditor
     Running UnrealHeaderTool "C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\PhysicsSim_UE.uproject" "C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\Intermediate\Build\Win64\PhysicsSim_UEEditor\Development\PhysicsSim_UEEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for PhysicsSim_UEEditor in 9.7012171 seconds
+  Reflection code generated for PhysicsSim_UEEditor in 6.9556835 seconds
   Building 5 actions with 24 processes...
     [1/5] PhysicsSim_UE.init.gen.cpp
-    [2/5] EulerBall.cpp
-    [3/5] EulerBall.gen.cpp
+    [2/5] MovingSphere.cpp
+    [3/5] MovingSphere.gen.cpp
     [4/5] UE4Editor-PhysicsSim_UE.lib
        Creating library C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\Intermediate\Build\Win64\UE4Editor\Development\PhysicsSim_UE\UE4Editor-PhysicsSim_UE.lib and object C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\Intermediate\Build\Win64\UE4Editor\Development\PhysicsSim_UE\UE4Editor-PhysicsSim_UE.exp
     [5/5] UE4Editor-PhysicsSim_UE.dll
        Creating library C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\Intermediate\Build\Win64\UE4Editor\Development\PhysicsSim_UE\UE4Editor-PhysicsSim_UE.suppressed.lib and object C:\Users\betha\Documents\GitHub\PhysicsSimulation\PhysicsSim_UE\Intermediate\Build\Win64\UE4Editor\Development\PhysicsSim_UE\UE4Editor-PhysicsSim_UE.suppressed.exp
   Deploying PhysicsSim_UEEditor Win64 Development...
-  Total build time: 22.83 seconds (Parallel executor: 8.07 seconds)
+  Total build time: 12.78 seconds (Parallel executor: 0.87 seconds)

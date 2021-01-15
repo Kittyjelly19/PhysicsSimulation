@@ -52,7 +52,7 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 #endif
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_AEulerBall_Statics::NewProp_startVel_MetaData[] = {
-		{ "Category", "n_Ball" },
+		{ "Category", "Ball Properties" },
 		{ "ModuleRelativePath", "EulerBall.h" },
 	};
 #endif
@@ -83,7 +83,7 @@ void EmptyLinkFunctionForGeneratedCodeEulerBall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEulerBall, 3058601561);
+	IMPLEMENT_CLASS(AEulerBall, 3110763138);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AEulerBall(Z_Construct_UClass_AEulerBall, &AEulerBall::StaticClass, TEXT("/Script/PhysicsSim_UE"), TEXT("AEulerBall"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AEulerBall);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

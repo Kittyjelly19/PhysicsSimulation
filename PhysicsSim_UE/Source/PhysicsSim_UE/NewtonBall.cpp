@@ -46,17 +46,7 @@
 //	{
 //		SetActorLocation(newPos);
 //	}
-//
-//	
-//}
-//
-//
-//	/*n_BallMesh = ObjectInitializer.CreateDefaultSubobject<UStaticMeshComponent>(this, TEXT("n_Ball Mesh test;"));
-//	SetRootComponent(n_BallMesh);
-//	///*ANewtonBall* RootComponent = n_BallMesh;*/
-//
-//	//	BallMesh = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("Newton Ball Mesh"));
-//	///*BallMesh->SetRelativeLocation(FVector(n_ballStartPos));*/
+ 
 //	
 ANewtonBall::ANewtonBall()
 {

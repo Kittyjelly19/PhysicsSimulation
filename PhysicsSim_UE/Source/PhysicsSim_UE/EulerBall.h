@@ -22,7 +22,7 @@ protected:
 	FVector newPos = { 0,0,0 };
 	FVector currentPos = newPos;
 	
-	UPROPERTY(EditAnywhere, Category = "n_Ball")
+	UPROPERTY(EditAnywhere, Category = "Ball Properties")
 	FVector startVel = { 0,0,0 };
 	FVector newVel = { 0,0,0 };
 	FVector currentVel = newVel;

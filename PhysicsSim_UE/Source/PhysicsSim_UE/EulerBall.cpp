@@ -15,11 +15,12 @@ void AEulerBall::BeginPlay()
 {
 	Super::BeginPlay();
 	
-	
+	startPos = GetActorLocation();
 	startVel = startVel / framerate;
 	currentVel = startVel;
 	g = g / framerate;
 	currentPos = GetActorLocation();
+	
 	
 }
 
@@ -29,6 +30,8 @@ void AEulerBall::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 	EulerianMethod();
 }
+
+//Eulers method of calculating.
 void AEulerBall::EulerianMethod()
 {
 	newVel = currentVel + g;
@@ -38,6 +41,6 @@ void AEulerBall::EulerianMethod()
 
 	if (currentPos.Z >= startPos.Z)
 	{
-		SetActorLocation(newPos);
+		SetActorLocation(currentPos);
 	}
 }
