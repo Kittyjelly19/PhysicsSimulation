@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PHYSICSSIM_UE_MovingSphere_generated_h
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_MovingSphere_h_15_RPC_WRAPPERS
-#define PhysicsSim_UE_Source_PhysicsSim_UE_MovingSphere_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define PhysicsSim_UE_Source_PhysicsSim_UE_MovingSphere_h_15_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execCollisionDetection) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->CollisionDetection(); \
+		P_NATIVE_END; \
+	}
+
+
+#define PhysicsSim_UE_Source_PhysicsSim_UE_MovingSphere_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execCollisionDetection) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		P_THIS->CollisionDetection(); \
+		P_NATIVE_END; \
+	}
+
+
 #define PhysicsSim_UE_Source_PhysicsSim_UE_MovingSphere_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMovingSphere(); \

@@ -15,7 +15,10 @@ public:
 	// Sets default values for this actor's properties
 	AStaticSphere();
 
-	float r2 = 0.5f;
+	int r2 = 50;
+
+	UPROPERTY(VisibleAnywhere)
+		int staticSphereRadius = 50;
 
 	UPROPERTY()
 		FVector startPos2 = { 0,0,0 };

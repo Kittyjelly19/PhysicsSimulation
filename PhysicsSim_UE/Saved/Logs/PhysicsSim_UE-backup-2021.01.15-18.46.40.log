@@ -1,0 +1,1768 @@
+﻿Log file open, 01/15/21 18:44:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PhysicsSim_UE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.873992
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.101s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2070 SUPER
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.15-18.44.38:060][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.15-18.44.38:061][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2021.01.15-18.44.38:062][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.15-18.44.38:062][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.15-18.44.38:062][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.15-18.44.38:062][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.15-18.44.38:062][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:062][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:068][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:068][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.15-18.44.38:068][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.15-18.44.38:068][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:068][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.15-18.44.38:068][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:068][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.15-18.44.38:069][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.15-18.44.38:070][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.15-18.44.38:071][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.15-18.44.38:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:073][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.15-18.44.38:073][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.15-18.44.38:073][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.15-18.44.38:073][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.15-18.44.38:080][  0]LogHAL: Display: Platform has ~ 32 GB [34295062528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.15-18.44.38:080][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2021.01.15-18.44.38:081][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.15-18.44.38:081][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.15-18.44.38:081][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.15-18.44.38:082][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.15-18.44.38:083][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.15-18.44.38:084][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Scalability.ini]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.15-18.44.38:085][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.15-18.44.38:085][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Config/Windows/Engine.ini]
+[2021.01.15-18.44.38:086][  0]LogInit: Computer: THEBEAST
+[2021.01.15-18.44.38:086][  0]LogInit: User: bethan
+[2021.01.15-18.44.38:086][  0]LogInit: CPU Page size=4096, Cores=12
+[2021.01.15-18.44.38:086][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.15-18.44.38:086][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.01.15-18.44.38:086][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.15-18.44.38:086][  0]LogMemory: Process Physical Memory: 107.11 MB used, 107.12 MB peak
+[2021.01.15-18.44.38:086][  0]LogMemory: Process Virtual Memory: 91.18 MB used, 91.18 MB peak
+[2021.01.15-18.44.38:086][  0]LogMemory: Physical Memory: 10384.76 MB used,  22321.56 MB free, 32706.32 MB total
+[2021.01.15-18.44.38:086][  0]LogMemory: Virtual Memory: 4703.05 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2021.01.15-18.44.38:247][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.15-18.44.38:247][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.15-18.44.38:248][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.15-18.44.38:554][  0]LogStreaming: Display: Took  0.307s to InitEngineTextLocalization.
+[2021.01.15-18.44.38:554][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.15-18.44.38:591][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.15-18.44.38:591][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.15-18.44.38:769][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.15-18.44.38:769][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.15-18.44.38:895][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 SUPER' (Feature Level 11_0)
+[2021.01.15-18.44.38:896][  0]LogD3D11RHI:       8011/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.15-18.44.38:900][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.15-18.44.38:900][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.15-18.44.38:900][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.15-18.44.38:908][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.15-18.44.38:908][  0]LogD3D11RHI:     GPU DeviceId: 0x1e84 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.15-18.44.38:908][  0]LogWindows: EnumDisplayDevices:
+[2021.01.15-18.44.38:908][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:1)
+[2021.01.15-18.44.38:908][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070 SUPER' (P:1 D:1)
+[2021.01.15-18.44.38:909][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.01.15-18.44.38:909][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 SUPER' (P:0 D:0)
+[2021.01.15-18.44.38:909][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.01.15-18.44.38:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 SUPER
+[2021.01.15-18.44.38:909][  0]LogD3D11RHI:   Driver Version: 460.89 (internal:27.21.14.6089, unified:460.89)
+[2021.01.15-18.44.38:909][  0]LogD3D11RHI:      Driver Date: 12-11-2020
+[2021.01.15-18.44.38:909][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2021.01.15-18.44.38:993][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.15-18.44.39:003][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.15-18.44.39:223][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.01.15-18.44.39:237][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.01.15-18.44.39:250][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.01.15-18.44.39:264][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.01.15-18.44.39:277][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.01.15-18.44.39:291][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.01.15-18.44.39:304][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.01.15-18.44.39:318][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.01.15-18.44.39:326][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:395][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.01.15-18.44.39:400][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.01.15-18.44.39:462][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.15-18.44.39:462][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.01.15-18.44.39:484][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.15-18.44.39:484][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.01.15-18.44.39:497][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.01.15-18.44.39:510][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.01.15-18.44.39:522][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.01.15-18.44.39:535][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.01.15-18.44.39:575][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.01.15-18.44.39:575][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2021.01.15-18.44.39:575][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.15-18.44.39:675][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Intermediate/Shaders/WorkingDirectory/24556/).
+[2021.01.15-18.44.39:676][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/betha/AppData/Local/Temp/UnrealShaderWorkingDir/EEBA58A8455707EF26FA6C9113D20B64/'.
+[2021.01.15-18.44.39:677][  0]LogXGEController: Cleaning working directory: C:/Users/betha/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.01.15-18.44.39:678][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.15-18.44.39:678][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.15-18.44.39:678][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.15-18.44.40:099][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/betha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/betha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.15-18.44.40:133][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.15-18.44.40:149][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.15-18.44.40:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.15-18.44.40:149][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.15-18.44.40:161][  0]LogDerivedDataCache: Using Local data cache path C:/Users/betha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.15-18.44.40:161][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.15-18.44.40:161][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.15-18.44.40:180][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.01.15-18.44.40:181][  0]LogSlate: Using FreeType 2.6.0
+[2021.01.15-18.44.40:182][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.15-18.44.40:257][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2021.01.15-18.44.40:530][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.15-18.44.40:664][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.01.15-18.44.40:671][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.01.15-18.44.40:671][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.15-18.44.40:671][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.15-18.44.40:671][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.01.15-18.44.40:681][  0]LogNetVersion: PhysicsSim_UE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1207201185)
+[2021.01.15-18.44.41:046][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.051230 seconds
+[2021.01.15-18.44.41:051][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2021.01.15-18.44.41:051][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2021.01.15-18.44.41:051][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.15-18.44.41:848][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.15-18.44.41:864][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.15-18.44.44:267][  0]SourceControl: Source control is disabled
+[2021.01.15-18.44.44:267][  0]SourceControl: Source control is disabled
+[2021.01.15-18.44.44:270][  0]SourceControl: Source control is disabled
+[2021.01.15-18.44.44:273][  0]SourceControl: Source control is disabled
+[2021.01.15-18.44.44:506][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.15-18.44.44:608][  0]LogOcInput: OculusInput pre-init called
+[2021.01.15-18.44.44:743][  0]LogEngine: Initializing Engine...
+[2021.01.15-18.44.44:744][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.15-18.44.44:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.15-18.44.44:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.15-18.44.44:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.15-18.44.44:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.15-18.44.44:909][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.15-18.44.44:923][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.15-18.44.44:941][  0]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.44.44:959][  0]LogInit: FAudioDevice initialized.
+[2021.01.15-18.44.44:960][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.15-18.44.45:073][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/betha/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2021.01.15-18.44.45:073][  0]LogInit: Texture streaming: Enabled
+[2021.01.15-18.44.45:097][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.15-18.44.45:097][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={C28BA29A-49E0-54D8-559F-4C8ADEE2A772}
+[2021.01.15-18.44.45:098][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={6371176E-4B5F-A509-8394-5DA89D96DF8E}
+[2021.01.15-18.44.45:106][  0]LogInit: Transaction tracking system initialized
+[2021.01.15-18.44.45:134][  0]BlueprintLog: New page: Editor Load
+[2021.01.15-18.44.45:227][  0]LocalizationService: Localization service is disabled
+[2021.01.15-18.44.45:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Content/' took 0.01s
+[2021.01.15-18.44.45:586][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.15-18.44.45:586][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.15-18.44.45:586][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.01.15-18.44.45:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2021.01.15-18.44.45:586][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.01.15-18.44.45:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2021.01.15-18.44.45:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.01.15-18.44.45:742][  0]SourceControl: Source control is disabled
+[2021.01.15-18.44.45:742][  0]Cmd: MAP LOAD FILE="../../../../../../Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.15-18.44.45:743][  0]LightingResults: New page: Lighting Build
+[2021.01.15-18.44.45:745][  0]MapCheck: New page: Map Check
+[2021.01.15-18.44.45:745][  0]LightingResults: New page: Lighting Build
+[2021.01.15-18.44.45:928][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.44.45:938][  0]LogEditorServer: Finished looking for orphan Actors (0.003 secs)
+[2021.01.15-18.44.45:962][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.15-18.44.45:962][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2021.01.15-18.44.45:962][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.220
+[2021.01.15-18.44.46:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.44.46:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.44.46:074][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.44.46:080][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.44.46:087][  0]LogCollectionManager: Loaded 0 collections in 0.001301 seconds
+[2021.01.15-18.44.46:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Saved/Collections/' took 0.01s
+[2021.01.15-18.44.46:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Content/Developers/bethan/Collections/' took 0.01s
+[2021.01.15-18.44.46:128][  0]LogFileCache: Scanning file cache for directory 'C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/Content/Collections/' took 0.01s
+[2021.01.15-18.44.46:128][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.01.15-18.44.46:136][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2656 classes and 622 folders.
+[2021.01.15-18.44.46:141][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.15-18.44.46:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:144][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:146][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:147][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:148][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:149][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:150][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:153][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2021.01.15-18.44.46:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.15-18.44.46:189][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2021.01.15-18.44.46:203][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.15-18.44.46:205][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.15-18.44.46:209][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.15-18.44.46:267][  0]LogRenderer: Reallocating scene render targets to support 1684x812 Format 10 NumSamples 1 (Frame:1).
+[2021.01.15-18.44.46:508][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.01.15-18.44.46:508][  0]LogLoad: (Engine Initialization) Total time: 10.94 seconds
+[2021.01.15-18.44.46:508][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.15-18.44.46:567][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.15-18.44.46:591][  1]LogAssetRegistry: Asset discovery search completed in 6.3568 seconds
+[2021.01.15-18.44.46:593][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.01.15-18.44.46:593][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2021.01.15-18.44.53:884][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.15-18.44.53:975][884]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.44.53:982][884]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.44.53:982][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.44.53:982][884]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:44:53)
+[2021.01.15-18.44.53:995][884]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.44.53:998][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2021.01.15-18.44.53:998][884]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.44.53:999][884]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2021.01.15-18.44.53:999][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003551s)
+[2021.01.15-18.44.54:036][884]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.44.54:044][884]LogInit: FAudioDevice initialized.
+[2021.01.15-18.44.54:088][884]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PhysicsSim_UE.PhysicsSim_UEGameMode'
+[2021.01.15-18.44.54:088][884]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.44.54:090][884]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.44.54
+[2021.01.15-18.44.54:090][884]LogWorld: Bringing up level for play took: 0.000717
+[2021.01.15-18.44.54:106][884]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.01.15-18.44.54:107][884]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.962
+[2021.01.15-18.44.54:107][884]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.15:093][884]LogTemp: Collision possible
+[2021.01.15-18.45.16:159][891]LogTemp: Collision possible
+[2021.01.15-18.45.16:205][892]LogTemp: Collision possible
+[2021.01.15-18.45.16:236][893]LogTemp: Collision possible
+[2021.01.15-18.45.16:266][894]LogTemp: Collision possible
+[2021.01.15-18.45.16:294][895]LogTemp: Collision possible
+[2021.01.15-18.45.16:323][896]LogTemp: Collision possible
+[2021.01.15-18.45.16:354][897]LogTemp: Collision possible
+[2021.01.15-18.45.16:384][898]LogTemp: Collision possible
+[2021.01.15-18.45.16:466][906]LogTemp: Collision possible
+[2021.01.15-18.45.16:475][907]LogTemp: Collision possible
+[2021.01.15-18.45.16:483][908]LogTemp: Collision possible
+[2021.01.15-18.45.16:491][909]LogTemp: Collision possible
+[2021.01.15-18.45.16:500][910]LogTemp: Collision possible
+[2021.01.15-18.45.16:508][911]LogTemp: Collision possible
+[2021.01.15-18.45.16:516][912]LogTemp: Collision possible
+[2021.01.15-18.45.16:524][913]LogTemp: Collision possible
+[2021.01.15-18.45.16:583][920]LogTemp: Collision possible
+[2021.01.15-18.45.16:591][921]LogTemp: Collision possible
+[2021.01.15-18.45.16:600][922]LogTemp: Collision possible
+[2021.01.15-18.45.16:608][923]LogTemp: Collision possible
+[2021.01.15-18.45.16:616][924]LogTemp: Collision possible
+[2021.01.15-18.45.16:625][925]LogTemp: Collision possible
+[2021.01.15-18.45.16:633][926]LogTemp: Collision possible
+[2021.01.15-18.45.16:641][927]LogTemp: Collision possible
+[2021.01.15-18.45.16:650][928]LogTemp: Collision possible
+[2021.01.15-18.45.16:708][935]LogTemp: Collision possible
+[2021.01.15-18.45.16:716][936]LogTemp: Collision possible
+[2021.01.15-18.45.16:725][937]LogTemp: Collision possible
+[2021.01.15-18.45.16:733][938]LogTemp: Collision possible
+[2021.01.15-18.45.16:741][939]LogTemp: Collision possible
+[2021.01.15-18.45.16:750][940]LogTemp: Collision possible
+[2021.01.15-18.45.16:758][941]LogTemp: Collision possible
+[2021.01.15-18.45.16:766][942]LogTemp: Collision possible
+[2021.01.15-18.45.16:833][950]LogTemp: Collision possible
+[2021.01.15-18.45.16:841][951]LogTemp: Collision possible
+[2021.01.15-18.45.16:849][952]LogTemp: Collision possible
+[2021.01.15-18.45.16:858][953]LogTemp: Collision possible
+[2021.01.15-18.45.16:866][954]LogTemp: Collision possible
+[2021.01.15-18.45.16:875][955]LogTemp: Collision possible
+[2021.01.15-18.45.16:883][956]LogTemp: Collision possible
+[2021.01.15-18.45.16:891][957]LogTemp: Collision possible
+[2021.01.15-18.45.16:950][964]LogTemp: Collision possible
+[2021.01.15-18.45.16:958][965]LogTemp: Collision possible
+[2021.01.15-18.45.16:967][966]LogTemp: Collision possible
+[2021.01.15-18.45.16:975][967]LogTemp: Collision possible
+[2021.01.15-18.45.16:983][968]LogTemp: Collision possible
+[2021.01.15-18.45.16:991][969]LogTemp: Collision possible
+[2021.01.15-18.45.17:000][970]LogTemp: Collision possible
+[2021.01.15-18.45.17:008][971]LogTemp: Collision possible
+[2021.01.15-18.45.17:016][972]LogTemp: Collision possible
+[2021.01.15-18.45.17:075][979]LogTemp: Collision possible
+[2021.01.15-18.45.17:083][980]LogTemp: Collision possible
+[2021.01.15-18.45.17:091][981]LogTemp: Collision possible
+[2021.01.15-18.45.17:100][982]LogTemp: Collision possible
+[2021.01.15-18.45.17:108][983]LogTemp: Collision possible
+[2021.01.15-18.45.17:116][984]LogTemp: Collision possible
+[2021.01.15-18.45.17:124][985]LogTemp: Collision possible
+[2021.01.15-18.45.17:133][986]LogTemp: Collision possible
+[2021.01.15-18.45.17:199][994]LogTemp: Collision possible
+[2021.01.15-18.45.17:208][995]LogTemp: Collision possible
+[2021.01.15-18.45.17:216][996]LogTemp: Collision possible
+[2021.01.15-18.45.17:224][997]LogTemp: Collision possible
+[2021.01.15-18.45.17:233][998]LogTemp: Collision possible
+[2021.01.15-18.45.17:241][999]LogTemp: Collision possible
+[2021.01.15-18.45.17:249][  0]LogTemp: Collision possible
+[2021.01.15-18.45.17:258][  1]LogTemp: Collision possible
+[2021.01.15-18.45.17:316][  8]LogTemp: Collision possible
+[2021.01.15-18.45.17:325][  9]LogTemp: Collision possible
+[2021.01.15-18.45.17:333][ 10]LogTemp: Collision possible
+[2021.01.15-18.45.17:341][ 11]LogTemp: Collision possible
+[2021.01.15-18.45.17:349][ 12]LogTemp: Collision possible
+[2021.01.15-18.45.17:358][ 13]LogTemp: Collision possible
+[2021.01.15-18.45.17:366][ 14]LogTemp: Collision possible
+[2021.01.15-18.45.17:374][ 15]LogTemp: Collision possible
+[2021.01.15-18.45.17:383][ 16]LogTemp: Collision possible
+[2021.01.15-18.45.17:441][ 23]LogTemp: Collision possible
+[2021.01.15-18.45.17:450][ 24]LogTemp: Collision possible
+[2021.01.15-18.45.17:458][ 25]LogTemp: Collision possible
+[2021.01.15-18.45.17:466][ 26]LogTemp: Collision possible
+[2021.01.15-18.45.17:475][ 27]LogTemp: Collision possible
+[2021.01.15-18.45.17:483][ 28]LogTemp: Collision possible
+[2021.01.15-18.45.17:491][ 29]LogTemp: Collision possible
+[2021.01.15-18.45.17:499][ 30]LogTemp: Collision possible
+[2021.01.15-18.45.17:508][ 31]LogTemp: Collision possible
+[2021.01.15-18.45.17:566][ 38]LogTemp: Collision possible
+[2021.01.15-18.45.17:574][ 39]LogTemp: Collision possible
+[2021.01.15-18.45.17:583][ 40]LogTemp: Collision possible
+[2021.01.15-18.45.17:591][ 41]LogTemp: Collision possible
+[2021.01.15-18.45.17:599][ 42]LogTemp: Collision possible
+[2021.01.15-18.45.17:607][ 43]LogTemp: Collision possible
+[2021.01.15-18.45.17:616][ 44]LogTemp: Collision possible
+[2021.01.15-18.45.17:624][ 45]LogTemp: Collision possible
+[2021.01.15-18.45.17:691][ 53]LogTemp: Collision possible
+[2021.01.15-18.45.17:700][ 54]LogTemp: Collision possible
+[2021.01.15-18.45.17:708][ 55]LogTemp: Collision possible
+[2021.01.15-18.45.17:716][ 56]LogTemp: Collision possible
+[2021.01.15-18.45.17:725][ 57]LogTemp: Collision possible
+[2021.01.15-18.45.17:733][ 58]LogTemp: Collision possible
+[2021.01.15-18.45.17:741][ 59]LogTemp: Collision possible
+[2021.01.15-18.45.17:750][ 60]LogTemp: Collision possible
+[2021.01.15-18.45.17:808][ 67]LogTemp: Collision possible
+[2021.01.15-18.45.17:816][ 68]LogTemp: Collision possible
+[2021.01.15-18.45.17:825][ 69]LogTemp: Collision possible
+[2021.01.15-18.45.17:833][ 70]LogTemp: Collision possible
+[2021.01.15-18.45.17:842][ 71]LogTemp: Collision possible
+[2021.01.15-18.45.17:850][ 72]LogTemp: Collision possible
+[2021.01.15-18.45.17:858][ 73]LogTemp: Collision possible
+[2021.01.15-18.45.17:867][ 74]LogTemp: Collision possible
+[2021.01.15-18.45.17:875][ 75]LogTemp: Collision possible
+[2021.01.15-18.45.17:936][ 82]LogTemp: Collision possible
+[2021.01.15-18.45.17:945][ 83]LogTemp: Collision possible
+[2021.01.15-18.45.17:955][ 84]LogTemp: Collision possible
+[2021.01.15-18.45.17:961][ 85]LogTemp: Collision possible
+[2021.01.15-18.45.17:970][ 86]LogTemp: Collision possible
+[2021.01.15-18.45.17:977][ 87]LogTemp: Collision possible
+[2021.01.15-18.45.17:986][ 88]LogTemp: Collision possible
+[2021.01.15-18.45.17:997][ 89]LogTemp: Collision possible
+[2021.01.15-18.45.18:060][ 97]LogTemp: Collision possible
+[2021.01.15-18.45.18:069][ 98]LogTemp: Collision possible
+[2021.01.15-18.45.18:077][ 99]LogTemp: Collision possible
+[2021.01.15-18.45.18:085][100]LogTemp: Collision possible
+[2021.01.15-18.45.18:094][101]LogTemp: Collision possible
+[2021.01.15-18.45.18:102][102]LogTemp: Collision possible
+[2021.01.15-18.45.18:110][103]LogTemp: Collision possible
+[2021.01.15-18.45.18:119][104]LogTemp: Collision possible
+[2021.01.15-18.45.18:177][111]LogTemp: Collision possible
+[2021.01.15-18.45.18:186][112]LogTemp: Collision possible
+[2021.01.15-18.45.18:194][113]LogTemp: Collision possible
+[2021.01.15-18.45.18:202][114]LogTemp: Collision possible
+[2021.01.15-18.45.18:211][115]LogTemp: Collision possible
+[2021.01.15-18.45.18:219][116]LogTemp: Collision possible
+[2021.01.15-18.45.18:228][117]LogTemp: Collision possible
+[2021.01.15-18.45.18:235][118]LogTemp: Collision possible
+[2021.01.15-18.45.18:244][119]LogTemp: Collision possible
+[2021.01.15-18.45.18:302][126]LogTemp: Collision possible
+[2021.01.15-18.45.18:310][127]LogTemp: Collision possible
+[2021.01.15-18.45.18:319][128]LogTemp: Collision possible
+[2021.01.15-18.45.18:327][129]LogTemp: Collision possible
+[2021.01.15-18.45.18:335][130]LogTemp: Collision possible
+[2021.01.15-18.45.18:344][131]LogTemp: Collision possible
+[2021.01.15-18.45.18:352][132]LogTemp: Collision possible
+[2021.01.15-18.45.18:360][133]LogTemp: Collision possible
+[2021.01.15-18.45.18:427][141]LogTemp: Collision possible
+[2021.01.15-18.45.18:436][142]LogTemp: Collision possible
+[2021.01.15-18.45.18:443][143]LogTemp: Collision possible
+[2021.01.15-18.45.18:452][144]LogTemp: Collision possible
+[2021.01.15-18.45.18:460][145]LogTemp: Collision possible
+[2021.01.15-18.45.18:468][146]LogTemp: Collision possible
+[2021.01.15-18.45.18:477][147]LogTemp: Collision possible
+[2021.01.15-18.45.18:485][148]LogTemp: Collision possible
+[2021.01.15-18.45.18:543][155]LogTemp: Collision possible
+[2021.01.15-18.45.18:552][156]LogTemp: Collision possible
+[2021.01.15-18.45.18:561][157]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.15-18.45.18:625][159]LogTemp: Collision possible
+[2021.01.15-18.45.18:633][160]LogTemp: Collision possible
+[2021.01.15-18.45.18:641][161]LogTemp: Collision possible
+[2021.01.15-18.45.18:650][162]LogTemp: Collision possible
+[2021.01.15-18.45.18:658][163]LogTemp: Collision possible
+[2021.01.15-18.45.18:667][164]LogTemp: Collision possible
+[2021.01.15-18.45.18:675][165]LogTemp: Collision possible
+[2021.01.15-18.45.18:733][172]LogTemp: Collision possible
+[2021.01.15-18.45.18:742][173]LogTemp: Collision possible
+[2021.01.15-18.45.18:750][174]LogTemp: Collision possible
+[2021.01.15-18.45.18:758][175]LogTemp: Collision possible
+[2021.01.15-18.45.18:767][176]LogTemp: Collision possible
+[2021.01.15-18.45.18:775][177]LogTemp: Collision possible
+[2021.01.15-18.45.18:783][178]LogTemp: Collision possible
+[2021.01.15-18.45.18:792][179]LogTemp: Collision possible
+[2021.01.15-18.45.18:800][180]LogTemp: Collision possible
+[2021.01.15-18.45.18:858][187]LogTemp: Collision possible
+[2021.01.15-18.45.18:866][188]LogTemp: Collision possible
+[2021.01.15-18.45.18:875][189]LogTemp: Collision possible
+[2021.01.15-18.45.18:883][190]LogTemp: Collision possible
+[2021.01.15-18.45.18:891][191]LogTemp: Collision possible
+[2021.01.15-18.45.18:900][192]LogTemp: Collision possible
+[2021.01.15-18.45.18:908][193]LogTemp: Collision possible
+[2021.01.15-18.45.18:916][194]LogTemp: Collision possible
+[2021.01.15-18.45.18:975][201]LogTemp: Collision possible
+[2021.01.15-18.45.18:983][202]LogTemp: Collision possible
+[2021.01.15-18.45.18:991][203]LogTemp: Collision possible
+[2021.01.15-18.45.19:000][204]LogTemp: Collision possible
+[2021.01.15-18.45.19:008][205]LogTemp: Collision possible
+[2021.01.15-18.45.19:017][206]LogTemp: Collision possible
+[2021.01.15-18.45.19:025][207]LogTemp: Collision possible
+[2021.01.15-18.45.19:033][208]LogTemp: Collision possible
+[2021.01.15-18.45.19:041][209]LogTemp: Collision possible
+[2021.01.15-18.45.19:100][216]LogTemp: Collision possible
+[2021.01.15-18.45.19:108][217]LogTemp: Collision possible
+[2021.01.15-18.45.19:116][218]LogTemp: Collision possible
+[2021.01.15-18.45.19:125][219]LogTemp: Collision possible
+[2021.01.15-18.45.19:133][220]LogTemp: Collision possible
+[2021.01.15-18.45.19:141][221]LogTemp: Collision possible
+[2021.01.15-18.45.19:150][222]LogTemp: Collision possible
+[2021.01.15-18.45.19:158][223]LogTemp: Collision possible
+[2021.01.15-18.45.19:166][224]LogTemp: Collision possible
+[2021.01.15-18.45.19:225][231]LogTemp: Collision possible
+[2021.01.15-18.45.19:233][232]LogTemp: Collision possible
+[2021.01.15-18.45.19:242][233]LogTemp: Collision possible
+[2021.01.15-18.45.19:250][234]LogTemp: Collision possible
+[2021.01.15-18.45.19:258][235]LogTemp: Collision possible
+[2021.01.15-18.45.19:267][236]LogTemp: Collision possible
+[2021.01.15-18.45.19:275][237]LogTemp: Collision possible
+[2021.01.15-18.45.19:283][238]LogTemp: Collision possible
+[2021.01.15-18.45.19:350][246]LogTemp: Collision possible
+[2021.01.15-18.45.19:358][247]LogTemp: Collision possible
+[2021.01.15-18.45.19:366][248]LogTemp: Collision possible
+[2021.01.15-18.45.19:375][249]LogTemp: Collision possible
+[2021.01.15-18.45.19:383][250]LogTemp: Collision possible
+[2021.01.15-18.45.19:391][251]LogTemp: Collision possible
+[2021.01.15-18.45.19:400][252]LogTemp: Collision possible
+[2021.01.15-18.45.19:408][253]LogTemp: Collision possible
+[2021.01.15-18.45.19:467][260]LogTemp: Collision possible
+[2021.01.15-18.45.19:475][261]LogTemp: Collision possible
+[2021.01.15-18.45.19:483][262]LogTemp: Collision possible
+[2021.01.15-18.45.19:492][263]LogTemp: Collision possible
+[2021.01.15-18.45.19:500][264]LogTemp: Collision possible
+[2021.01.15-18.45.19:509][265]LogTemp: Collision possible
+[2021.01.15-18.45.19:517][266]LogTemp: Collision possible
+[2021.01.15-18.45.19:525][267]LogTemp: Collision possible
+[2021.01.15-18.45.19:533][268]LogTemp: Collision possible
+[2021.01.15-18.45.19:591][275]LogTemp: Collision possible
+[2021.01.15-18.45.19:600][276]LogTemp: Collision possible
+[2021.01.15-18.45.19:608][277]LogTemp: Collision possible
+[2021.01.15-18.45.19:616][278]LogTemp: Collision possible
+[2021.01.15-18.45.19:625][279]LogTemp: Collision possible
+[2021.01.15-18.45.19:633][280]LogTemp: Collision possible
+[2021.01.15-18.45.19:642][281]LogTemp: Collision possible
+[2021.01.15-18.45.19:650][282]LogTemp: Collision possible
+[2021.01.15-18.45.19:717][290]LogTemp: Collision possible
+[2021.01.15-18.45.19:725][291]LogTemp: Collision possible
+[2021.01.15-18.45.19:733][292]LogTemp: Collision possible
+[2021.01.15-18.45.19:742][293]LogTemp: Collision possible
+[2021.01.15-18.45.19:750][294]LogTemp: Collision possible
+[2021.01.15-18.45.19:758][295]LogTemp: Collision possible
+[2021.01.15-18.45.19:766][296]LogTemp: Collision possible
+[2021.01.15-18.45.19:775][297]LogTemp: Collision possible
+[2021.01.15-18.45.19:833][304]LogTemp: Collision possible
+[2021.01.15-18.45.19:843][305]LogTemp: Collision possible
+[2021.01.15-18.45.19:850][306]LogTemp: Collision possible
+[2021.01.15-18.45.19:859][307]LogTemp: Collision possible
+[2021.01.15-18.45.19:867][308]LogTemp: Collision possible
+[2021.01.15-18.45.19:875][309]LogTemp: Collision possible
+[2021.01.15-18.45.19:884][310]LogTemp: Collision possible
+[2021.01.15-18.45.19:891][311]LogTemp: Collision possible
+[2021.01.15-18.45.19:900][312]LogTemp: Collision possible
+[2021.01.15-18.45.19:958][319]LogTemp: Collision possible
+[2021.01.15-18.45.19:967][320]LogTemp: Collision possible
+[2021.01.15-18.45.19:975][321]LogTemp: Collision possible
+[2021.01.15-18.45.19:984][322]LogTemp: Collision possible
+[2021.01.15-18.45.19:992][323]LogTemp: Collision possible
+[2021.01.15-18.45.20:000][324]LogTemp: Collision possible
+[2021.01.15-18.45.20:009][325]LogTemp: Collision possible
+[2021.01.15-18.45.20:017][326]LogTemp: Collision possible
+[2021.01.15-18.45.20:083][334]LogTemp: Collision possible
+[2021.01.15-18.45.20:092][335]LogTemp: Collision possible
+[2021.01.15-18.45.20:100][336]LogTemp: Collision possible
+[2021.01.15-18.45.20:108][337]LogTemp: Collision possible
+[2021.01.15-18.45.20:117][338]LogTemp: Collision possible
+[2021.01.15-18.45.20:125][339]LogTemp: Collision possible
+[2021.01.15-18.45.20:133][340]LogTemp: Collision possible
+[2021.01.15-18.45.20:142][341]LogTemp: Collision possible
+[2021.01.15-18.45.20:201][348]LogTemp: Collision possible
+[2021.01.15-18.45.20:210][349]LogTemp: Collision possible
+[2021.01.15-18.45.20:218][350]LogTemp: Collision possible
+[2021.01.15-18.45.20:226][351]LogTemp: Collision possible
+[2021.01.15-18.45.20:235][352]LogTemp: Collision possible
+[2021.01.15-18.45.20:243][353]LogTemp: Collision possible
+[2021.01.15-18.45.20:251][354]LogTemp: Collision possible
+[2021.01.15-18.45.20:260][355]LogTemp: Collision possible
+[2021.01.15-18.45.20:268][356]LogTemp: Collision possible
+[2021.01.15-18.45.20:327][363]LogTemp: Collision possible
+[2021.01.15-18.45.20:335][364]LogTemp: Collision possible
+[2021.01.15-18.45.20:343][365]LogTemp: Collision possible
+[2021.01.15-18.45.20:351][366]LogTemp: Collision possible
+[2021.01.15-18.45.20:360][367]LogTemp: Collision possible
+[2021.01.15-18.45.20:368][368]LogTemp: Collision possible
+[2021.01.15-18.45.20:379][369]LogTemp: Collision possible
+[2021.01.15-18.45.20:386][370]LogTemp: Collision possible
+[2021.01.15-18.45.20:393][371]LogTemp: Collision possible
+[2021.01.15-18.45.20:452][378]LogTemp: Collision possible
+[2021.01.15-18.45.20:460][379]LogTemp: Collision possible
+[2021.01.15-18.45.20:468][380]LogTemp: Collision possible
+[2021.01.15-18.45.20:476][381]LogTemp: Collision possible
+[2021.01.15-18.45.20:485][382]LogTemp: Collision possible
+[2021.01.15-18.45.20:493][383]LogTemp: Collision possible
+[2021.01.15-18.45.20:501][384]LogTemp: Collision possible
+[2021.01.15-18.45.20:509][385]LogTemp: Collision possible
+[2021.01.15-18.45.20:568][392]LogTemp: Collision possible
+[2021.01.15-18.45.20:576][393]LogTemp: Collision possible
+[2021.01.15-18.45.20:585][394]LogTemp: Collision possible
+[2021.01.15-18.45.20:593][395]LogTemp: Collision possible
+[2021.01.15-18.45.20:602][396]LogTemp: Collision possible
+[2021.01.15-18.45.20:610][397]LogTemp: Collision possible
+[2021.01.15-18.45.20:618][398]LogTemp: Collision possible
+[2021.01.15-18.45.20:627][399]LogTemp: Collision possible
+[2021.01.15-18.45.20:635][400]LogTemp: Collision possible
+[2021.01.15-18.45.20:693][407]LogTemp: Collision possible
+[2021.01.15-18.45.20:701][408]LogTemp: Collision possible
+[2021.01.15-18.45.20:710][409]LogTemp: Collision possible
+[2021.01.15-18.45.20:718][410]LogTemp: Collision possible
+[2021.01.15-18.45.20:726][411]LogTemp: Collision possible
+[2021.01.15-18.45.20:735][412]LogTemp: Collision possible
+[2021.01.15-18.45.20:743][413]LogTemp: Collision possible
+[2021.01.15-18.45.20:751][414]LogTemp: Collision possible
+[2021.01.15-18.45.20:760][415]LogTemp: Collision possible
+[2021.01.15-18.45.20:818][422]LogTemp: Collision possible
+[2021.01.15-18.45.20:827][423]LogTemp: Collision possible
+[2021.01.15-18.45.20:835][424]LogTemp: Collision possible
+[2021.01.15-18.45.20:843][425]LogTemp: Collision possible
+[2021.01.15-18.45.20:852][426]LogTemp: Collision possible
+[2021.01.15-18.45.20:860][427]LogTemp: Collision possible
+[2021.01.15-18.45.20:868][428]LogTemp: Collision possible
+[2021.01.15-18.45.20:876][429]LogTemp: Collision possible
+[2021.01.15-18.45.20:943][437]LogTemp: Collision possible
+[2021.01.15-18.45.20:951][438]LogTemp: Collision possible
+[2021.01.15-18.45.20:960][439]LogTemp: Collision possible
+[2021.01.15-18.45.20:968][440]LogTemp: Collision possible
+[2021.01.15-18.45.20:976][441]LogTemp: Collision possible
+[2021.01.15-18.45.20:985][442]LogTemp: Collision possible
+[2021.01.15-18.45.20:993][443]LogTemp: Collision possible
+[2021.01.15-18.45.21:002][444]LogTemp: Collision possible
+[2021.01.15-18.45.21:060][451]LogTemp: Collision possible
+[2021.01.15-18.45.21:068][452]LogTemp: Collision possible
+[2021.01.15-18.45.21:076][453]LogTemp: Collision possible
+[2021.01.15-18.45.21:085][454]LogTemp: Collision possible
+[2021.01.15-18.45.21:093][455]LogTemp: Collision possible
+[2021.01.15-18.45.21:102][456]LogTemp: Collision possible
+[2021.01.15-18.45.21:110][457]LogTemp: Collision possible
+[2021.01.15-18.45.21:118][458]LogTemp: Collision possible
+[2021.01.15-18.45.21:127][459]LogTemp: Collision possible
+[2021.01.15-18.45.21:187][466]LogTemp: Collision possible
+[2021.01.15-18.45.21:193][467]LogTemp: Collision possible
+[2021.01.15-18.45.21:202][468]LogTemp: Collision possible
+[2021.01.15-18.45.21:210][469]LogTemp: Collision possible
+[2021.01.15-18.45.21:218][470]LogTemp: Collision possible
+[2021.01.15-18.45.21:226][471]LogTemp: Collision possible
+[2021.01.15-18.45.21:235][472]LogTemp: Collision possible
+[2021.01.15-18.45.21:244][473]LogTemp: Collision possible
+[2021.01.15-18.45.21:310][481]LogTemp: Collision possible
+[2021.01.15-18.45.21:318][482]LogTemp: Collision possible
+[2021.01.15-18.45.21:327][483]LogTemp: Collision possible
+[2021.01.15-18.45.21:335][484]LogTemp: Collision possible
+[2021.01.15-18.45.21:344][485]LogTemp: Collision possible
+[2021.01.15-18.45.21:352][486]LogTemp: Collision possible
+[2021.01.15-18.45.21:360][487]LogTemp: Collision possible
+[2021.01.15-18.45.21:368][488]LogTemp: Collision possible
+[2021.01.15-18.45.21:427][495]LogTemp: Collision possible
+[2021.01.15-18.45.21:435][496]LogTemp: Collision possible
+[2021.01.15-18.45.21:443][497]LogTemp: Collision possible
+[2021.01.15-18.45.21:452][498]LogTemp: Collision possible
+[2021.01.15-18.45.21:460][499]LogTemp: Collision possible
+[2021.01.15-18.45.21:468][500]LogTemp: Collision possible
+[2021.01.15-18.45.21:476][501]LogTemp: Collision possible
+[2021.01.15-18.45.21:485][502]LogTemp: Collision possible
+[2021.01.15-18.45.21:495][503]LogTemp: Collision possible
+[2021.01.15-18.45.21:551][510]LogTemp: Collision possible
+[2021.01.15-18.45.21:560][511]LogTemp: Collision possible
+[2021.01.15-18.45.21:568][512]LogTemp: Collision possible
+[2021.01.15-18.45.21:576][513]LogTemp: Collision possible
+[2021.01.15-18.45.21:585][514]LogTemp: Collision possible
+[2021.01.15-18.45.21:593][515]LogTemp: Collision possible
+[2021.01.15-18.45.21:601][516]LogTemp: Collision possible
+[2021.01.15-18.45.21:611][517]LogTemp: Collision possible
+[2021.01.15-18.45.21:676][525]LogTemp: Collision possible
+[2021.01.15-18.45.21:685][526]LogTemp: Collision possible
+[2021.01.15-18.45.21:694][527]LogTemp: Collision possible
+[2021.01.15-18.45.21:701][528]LogTemp: Collision possible
+[2021.01.15-18.45.21:710][529]LogTemp: Collision possible
+[2021.01.15-18.45.21:719][530]LogTemp: Collision possible
+[2021.01.15-18.45.21:726][531]LogTemp: Collision possible
+[2021.01.15-18.45.21:735][532]LogTemp: Collision possible
+[2021.01.15-18.45.21:793][539]LogTemp: Collision possible
+[2021.01.15-18.45.21:801][540]LogTemp: Collision possible
+[2021.01.15-18.45.21:809][541]LogTemp: Collision possible
+[2021.01.15-18.45.21:901][552]LogTemp: Collision possible
+[2021.01.15-18.45.21:902][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.21:903][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.21:937][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.45.21:938][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.21:965][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.22:002][556]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.01.15-18.45.22:960][671]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.45.22:967][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.22:967][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.45.22:968][671]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:45:22)
+[2021.01.15-18.45.22:968][671]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.45.22:970][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002235s)
+[2021.01.15-18.45.22:971][671]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.45.22:971][671]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2021.01.15-18.45.22:971][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003288s)
+[2021.01.15-18.45.23:007][671]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.45.23:016][671]LogInit: FAudioDevice initialized.
+[2021.01.15-18.45.23:046][671]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.45.23:047][671]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.45.23
+[2021.01.15-18.45.23:047][671]LogWorld: Bringing up level for play took: 0.000728
+[2021.01.15-18.45.23:060][671]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.085
+[2021.01.15-18.45.23:060][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.23:061][671]LogTemp: Collision possible
+[2021.01.15-18.45.23:130][678]LogTemp: Collision possible
+[2021.01.15-18.45.23:138][679]LogTemp: Collision possible
+[2021.01.15-18.45.23:147][680]LogTemp: Collision possible
+[2021.01.15-18.45.23:155][681]LogTemp: Collision possible
+[2021.01.15-18.45.23:163][682]LogTemp: Collision possible
+[2021.01.15-18.45.23:171][683]LogTemp: Collision possible
+[2021.01.15-18.45.23:180][684]LogTemp: Collision possible
+[2021.01.15-18.45.23:188][685]LogTemp: Collision possible
+[2021.01.15-18.45.23:255][693]LogTemp: Collision possible
+[2021.01.15-18.45.23:263][694]LogTemp: Collision possible
+[2021.01.15-18.45.23:272][695]LogTemp: Collision possible
+[2021.01.15-18.45.23:280][696]LogTemp: Collision possible
+[2021.01.15-18.45.23:288][697]LogTemp: Collision possible
+[2021.01.15-18.45.23:297][698]LogTemp: Collision possible
+[2021.01.15-18.45.23:305][699]LogTemp: Collision possible
+[2021.01.15-18.45.23:313][700]LogTemp: Collision possible
+[2021.01.15-18.45.23:372][707]LogTemp: Collision possible
+[2021.01.15-18.45.23:380][708]LogTemp: Collision possible
+[2021.01.15-18.45.23:388][709]LogTemp: Collision possible
+[2021.01.15-18.45.23:397][710]LogTemp: Collision possible
+[2021.01.15-18.45.23:405][711]LogTemp: Collision possible
+[2021.01.15-18.45.23:413][712]LogTemp: Collision possible
+[2021.01.15-18.45.23:422][713]LogTemp: Collision possible
+[2021.01.15-18.45.23:430][714]LogTemp: Collision possible
+[2021.01.15-18.45.23:439][715]LogTemp: Collision possible
+[2021.01.15-18.45.23:497][722]LogTemp: Collision possible
+[2021.01.15-18.45.23:505][723]LogTemp: Collision possible
+[2021.01.15-18.45.23:514][724]LogTemp: Collision possible
+[2021.01.15-18.45.23:522][725]LogTemp: Collision possible
+[2021.01.15-18.45.23:530][726]LogTemp: Collision possible
+[2021.01.15-18.45.23:538][727]LogTemp: Collision possible
+[2021.01.15-18.45.23:547][728]LogTemp: Collision possible
+[2021.01.15-18.45.23:555][729]LogTemp: Collision possible
+[2021.01.15-18.45.23:622][737]LogTemp: Collision possible
+[2021.01.15-18.45.23:630][738]LogTemp: Collision possible
+[2021.01.15-18.45.23:638][739]LogTemp: Collision possible
+[2021.01.15-18.45.23:646][740]LogTemp: Collision possible
+[2021.01.15-18.45.23:655][741]LogTemp: Collision possible
+[2021.01.15-18.45.23:663][742]LogTemp: Collision possible
+[2021.01.15-18.45.23:673][743]LogTemp: Collision possible
+[2021.01.15-18.45.23:680][744]LogTemp: Collision possible
+[2021.01.15-18.45.23:738][751]LogTemp: Collision possible
+[2021.01.15-18.45.23:747][752]LogTemp: Collision possible
+[2021.01.15-18.45.23:755][753]LogTemp: Collision possible
+[2021.01.15-18.45.23:764][754]LogTemp: Collision possible
+[2021.01.15-18.45.23:772][755]LogTemp: Collision possible
+[2021.01.15-18.45.23:781][756]LogTemp: Collision possible
+[2021.01.15-18.45.23:788][757]LogTemp: Collision possible
+[2021.01.15-18.45.23:797][758]LogTemp: Collision possible
+[2021.01.15-18.45.23:805][759]LogTemp: Collision possible
+[2021.01.15-18.45.23:863][766]LogTemp: Collision possible
+[2021.01.15-18.45.23:872][767]LogTemp: Collision possible
+[2021.01.15-18.45.23:880][768]LogTemp: Collision possible
+[2021.01.15-18.45.23:888][769]LogTemp: Collision possible
+[2021.01.15-18.45.23:897][770]LogTemp: Collision possible
+[2021.01.15-18.45.23:905][771]LogTemp: Collision possible
+[2021.01.15-18.45.23:914][772]LogTemp: Collision possible
+[2021.01.15-18.45.23:922][773]LogTemp: Collision possible
+[2021.01.15-18.45.23:988][781]LogTemp: Collision possible
+[2021.01.15-18.45.23:996][782]LogTemp: Collision possible
+[2021.01.15-18.45.24:005][783]LogTemp: Collision possible
+[2021.01.15-18.45.24:013][784]LogTemp: Collision possible
+[2021.01.15-18.45.24:021][785]LogTemp: Collision possible
+[2021.01.15-18.45.24:030][786]LogTemp: Collision possible
+[2021.01.15-18.45.24:038][787]LogTemp: Collision possible
+[2021.01.15-18.45.24:046][788]LogTemp: Collision possible
+[2021.01.15-18.45.24:106][795]LogTemp: Collision possible
+[2021.01.15-18.45.24:114][796]LogTemp: Collision possible
+[2021.01.15-18.45.24:122][797]LogTemp: Collision possible
+[2021.01.15-18.45.24:130][798]LogTemp: Collision possible
+[2021.01.15-18.45.24:139][799]LogTemp: Collision possible
+[2021.01.15-18.45.24:147][800]LogTemp: Collision possible
+[2021.01.15-18.45.24:155][801]LogTemp: Collision possible
+[2021.01.15-18.45.24:164][802]LogTemp: Collision possible
+[2021.01.15-18.45.24:172][803]LogTemp: Collision possible
+[2021.01.15-18.45.24:231][810]LogTemp: Collision possible
+[2021.01.15-18.45.24:238][811]LogTemp: Collision possible
+[2021.01.15-18.45.24:247][812]LogTemp: Collision possible
+[2021.01.15-18.45.24:256][813]LogTemp: Collision possible
+[2021.01.15-18.45.24:264][814]LogTemp: Collision possible
+[2021.01.15-18.45.24:272][815]LogTemp: Collision possible
+[2021.01.15-18.45.24:281][816]LogTemp: Collision possible
+[2021.01.15-18.45.24:289][817]LogTemp: Collision possible
+[2021.01.15-18.45.24:297][818]LogTemp: Collision possible
+[2021.01.15-18.45.24:355][825]LogTemp: Collision possible
+[2021.01.15-18.45.24:363][826]LogTemp: Collision possible
+[2021.01.15-18.45.24:372][827]LogTemp: Collision possible
+[2021.01.15-18.45.24:380][828]LogTemp: Collision possible
+[2021.01.15-18.45.24:388][829]LogTemp: Collision possible
+[2021.01.15-18.45.24:397][830]LogTemp: Collision possible
+[2021.01.15-18.45.24:405][831]LogTemp: Collision possible
+[2021.01.15-18.45.24:413][832]LogTemp: Collision possible
+[2021.01.15-18.45.24:481][840]LogTemp: Collision possible
+[2021.01.15-18.45.24:488][841]LogTemp: Collision possible
+[2021.01.15-18.45.24:498][842]LogTemp: Collision possible
+[2021.01.15-18.45.24:505][843]LogTemp: Collision possible
+[2021.01.15-18.45.24:513][844]LogTemp: Collision possible
+[2021.01.15-18.45.24:522][845]LogTemp: Collision possible
+[2021.01.15-18.45.24:530][846]LogTemp: Collision possible
+[2021.01.15-18.45.24:538][847]LogTemp: Collision possible
+[2021.01.15-18.45.24:597][854]LogTemp: Collision possible
+[2021.01.15-18.45.24:605][855]LogTemp: Collision possible
+[2021.01.15-18.45.24:613][856]LogTemp: Collision possible
+[2021.01.15-18.45.24:622][857]LogTemp: Collision possible
+[2021.01.15-18.45.24:630][858]LogTemp: Collision possible
+[2021.01.15-18.45.24:638][859]LogTemp: Collision possible
+[2021.01.15-18.45.24:647][860]LogTemp: Collision possible
+[2021.01.15-18.45.24:655][861]LogTemp: Collision possible
+[2021.01.15-18.45.24:663][862]LogTemp: Collision possible
+[2021.01.15-18.45.24:722][869]LogTemp: Collision possible
+[2021.01.15-18.45.24:730][870]LogTemp: Collision possible
+[2021.01.15-18.45.24:738][871]LogTemp: Collision possible
+[2021.01.15-18.45.24:747][872]LogTemp: Collision possible
+[2021.01.15-18.45.24:755][873]LogTemp: Collision possible
+[2021.01.15-18.45.24:764][874]LogTemp: Collision possible
+[2021.01.15-18.45.24:771][875]LogTemp: Collision possible
+[2021.01.15-18.45.24:780][876]LogTemp: Collision possible
+[2021.01.15-18.45.24:846][884]LogTemp: Collision possible
+[2021.01.15-18.45.24:855][885]LogTemp: Collision possible
+[2021.01.15-18.45.24:864][886]LogTemp: Collision possible
+[2021.01.15-18.45.24:872][887]LogTemp: Collision possible
+[2021.01.15-18.45.24:880][888]LogTemp: Collision possible
+[2021.01.15-18.45.24:889][889]LogTemp: Collision possible
+[2021.01.15-18.45.24:897][890]LogTemp: Collision possible
+[2021.01.15-18.45.24:905][891]LogTemp: Collision possible
+[2021.01.15-18.45.24:964][898]LogTemp: Collision possible
+[2021.01.15-18.45.24:972][899]LogTemp: Collision possible
+[2021.01.15-18.45.24:980][900]LogTemp: Collision possible
+[2021.01.15-18.45.24:988][901]LogTemp: Collision possible
+[2021.01.15-18.45.24:997][902]LogTemp: Collision possible
+[2021.01.15-18.45.25:005][903]LogTemp: Collision possible
+[2021.01.15-18.45.25:014][904]LogTemp: Collision possible
+[2021.01.15-18.45.25:022][905]LogTemp: Collision possible
+[2021.01.15-18.45.25:030][906]LogTemp: Collision possible
+[2021.01.15-18.45.25:088][913]LogTemp: Collision possible
+[2021.01.15-18.45.25:096][914]LogTemp: Collision possible
+[2021.01.15-18.45.25:105][915]LogTemp: Collision possible
+[2021.01.15-18.45.25:114][916]LogTemp: Collision possible
+[2021.01.15-18.45.25:122][917]LogTemp: Collision possible
+[2021.01.15-18.45.25:130][918]LogTemp: Collision possible
+[2021.01.15-18.45.25:139][919]LogTemp: Collision possible
+[2021.01.15-18.45.25:147][920]LogTemp: Collision possible
+[2021.01.15-18.45.25:213][928]LogTemp: Collision possible
+[2021.01.15-18.45.25:222][929]LogTemp: Collision possible
+[2021.01.15-18.45.25:230][930]LogTemp: Collision possible
+[2021.01.15-18.45.25:239][931]LogTemp: Collision possible
+[2021.01.15-18.45.25:247][932]LogTemp: Collision possible
+[2021.01.15-18.45.25:255][933]LogTemp: Collision possible
+[2021.01.15-18.45.25:263][934]LogTemp: Collision possible
+[2021.01.15-18.45.25:272][935]LogTemp: Collision possible
+[2021.01.15-18.45.25:330][942]LogTemp: Collision possible
+[2021.01.15-18.45.25:338][943]LogTemp: Collision possible
+[2021.01.15-18.45.25:347][944]LogTemp: Collision possible
+[2021.01.15-18.45.25:355][945]LogTemp: Collision possible
+[2021.01.15-18.45.25:363][946]LogTemp: Collision possible
+[2021.01.15-18.45.25:372][947]LogTemp: Collision possible
+[2021.01.15-18.45.25:380][948]LogTemp: Collision possible
+[2021.01.15-18.45.25:389][949]LogTemp: Collision possible
+[2021.01.15-18.45.25:397][950]LogTemp: Collision possible
+[2021.01.15-18.45.25:455][957]LogTemp: Collision possible
+[2021.01.15-18.45.25:466][958]LogTemp: Collision possible
+[2021.01.15-18.45.25:472][959]LogTemp: Collision possible
+[2021.01.15-18.45.25:480][960]LogTemp: Collision possible
+[2021.01.15-18.45.25:489][961]LogTemp: Collision possible
+[2021.01.15-18.45.25:497][962]LogTemp: Collision possible
+[2021.01.15-18.45.25:505][963]LogTemp: Collision possible
+[2021.01.15-18.45.25:513][964]LogTemp: Collision possible
+[2021.01.15-18.45.25:522][965]LogTemp: Collision possible
+[2021.01.15-18.45.25:580][972]LogTemp: Collision possible
+[2021.01.15-18.45.25:588][973]LogTemp: Collision possible
+[2021.01.15-18.45.25:597][974]LogTemp: Collision possible
+[2021.01.15-18.45.25:605][975]LogTemp: Collision possible
+[2021.01.15-18.45.25:613][976]LogTemp: Collision possible
+[2021.01.15-18.45.25:622][977]LogTemp: Collision possible
+[2021.01.15-18.45.25:630][978]LogTemp: Collision possible
+[2021.01.15-18.45.25:638][979]LogTemp: Collision possible
+[2021.01.15-18.45.25:739][991]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.25:740][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.25:776][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.45.25:776][991]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.25:802][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.25:846][996]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.01.15-18.45.40:327][733]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.45.40:333][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.40:334][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.45.40:334][733]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:45:40)
+[2021.01.15-18.45.40:334][733]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.45.40:337][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002225s)
+[2021.01.15-18.45.40:337][733]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.45.40:338][733]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2021.01.15-18.45.40:338][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003480s)
+[2021.01.15-18.45.40:373][733]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.45.40:381][733]LogInit: FAudioDevice initialized.
+[2021.01.15-18.45.40:417][733]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.45.40:418][733]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.45.40
+[2021.01.15-18.45.40:418][733]LogWorld: Bringing up level for play took: 0.000758
+[2021.01.15-18.45.40:431][733]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.713
+[2021.01.15-18.45.40:432][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.40:433][733]LogTemp: Collision possible
+[2021.01.15-18.45.40:502][740]LogTemp: Collision possible
+[2021.01.15-18.45.40:510][741]LogTemp: Collision possible
+[2021.01.15-18.45.40:518][742]LogTemp: Collision possible
+[2021.01.15-18.45.40:527][743]LogTemp: Collision possible
+[2021.01.15-18.45.40:535][744]LogTemp: Collision possible
+[2021.01.15-18.45.40:543][745]LogTemp: Collision possible
+[2021.01.15-18.45.40:552][746]LogTemp: Collision possible
+[2021.01.15-18.45.40:560][747]LogTemp: Collision possible
+[2021.01.15-18.45.40:626][755]LogTemp: Collision possible
+[2021.01.15-18.45.40:635][756]LogTemp: Collision possible
+[2021.01.15-18.45.40:643][757]LogTemp: Collision possible
+[2021.01.15-18.45.40:652][758]LogTemp: Collision possible
+[2021.01.15-18.45.40:660][759]LogTemp: Collision possible
+[2021.01.15-18.45.40:669][760]LogTemp: Collision possible
+[2021.01.15-18.45.40:677][761]LogTemp: Collision possible
+[2021.01.15-18.45.40:685][762]LogTemp: Collision possible
+[2021.01.15-18.45.40:744][769]LogTemp: Collision possible
+[2021.01.15-18.45.40:752][770]LogTemp: Collision possible
+[2021.01.15-18.45.40:760][771]LogTemp: Collision possible
+[2021.01.15-18.45.40:769][772]LogTemp: Collision possible
+[2021.01.15-18.45.40:776][773]LogTemp: Collision possible
+[2021.01.15-18.45.40:785][774]LogTemp: Collision possible
+[2021.01.15-18.45.40:793][775]LogTemp: Collision possible
+[2021.01.15-18.45.40:802][776]LogTemp: Collision possible
+[2021.01.15-18.45.40:810][777]LogTemp: Collision possible
+[2021.01.15-18.45.40:868][784]LogTemp: Collision possible
+[2021.01.15-18.45.40:876][785]LogTemp: Collision possible
+[2021.01.15-18.45.40:885][786]LogTemp: Collision possible
+[2021.01.15-18.45.40:893][787]LogTemp: Collision possible
+[2021.01.15-18.45.40:901][788]LogTemp: Collision possible
+[2021.01.15-18.45.40:909][789]LogTemp: Collision possible
+[2021.01.15-18.45.40:918][790]LogTemp: Collision possible
+[2021.01.15-18.45.40:926][791]LogTemp: Collision possible
+[2021.01.15-18.45.40:993][799]LogTemp: Collision possible
+[2021.01.15-18.45.41:001][800]LogTemp: Collision possible
+[2021.01.15-18.45.41:010][801]LogTemp: Collision possible
+[2021.01.15-18.45.41:018][802]LogTemp: Collision possible
+[2021.01.15-18.45.41:026][803]LogTemp: Collision possible
+[2021.01.15-18.45.41:034][804]LogTemp: Collision possible
+[2021.01.15-18.45.41:043][805]LogTemp: Collision possible
+[2021.01.15-18.45.41:051][806]LogTemp: Collision possible
+[2021.01.15-18.45.41:109][813]LogTemp: Collision possible
+[2021.01.15-18.45.41:118][814]LogTemp: Collision possible
+[2021.01.15-18.45.41:126][815]LogTemp: Collision possible
+[2021.01.15-18.45.41:135][816]LogTemp: Collision possible
+[2021.01.15-18.45.41:143][817]LogTemp: Collision possible
+[2021.01.15-18.45.41:151][818]LogTemp: Collision possible
+[2021.01.15-18.45.41:160][819]LogTemp: Collision possible
+[2021.01.15-18.45.41:168][820]LogTemp: Collision possible
+[2021.01.15-18.45.41:176][821]LogTemp: Collision possible
+[2021.01.15-18.45.41:234][828]LogTemp: Collision possible
+[2021.01.15-18.45.41:243][829]LogTemp: Collision possible
+[2021.01.15-18.45.41:251][830]LogTemp: Collision possible
+[2021.01.15-18.45.41:259][831]LogTemp: Collision possible
+[2021.01.15-18.45.41:268][832]LogTemp: Collision possible
+[2021.01.15-18.45.41:276][833]LogTemp: Collision possible
+[2021.01.15-18.45.41:285][834]LogTemp: Collision possible
+[2021.01.15-18.45.41:293][835]LogTemp: Collision possible
+[2021.01.15-18.45.41:360][843]LogTemp: Collision possible
+[2021.01.15-18.45.41:368][844]LogTemp: Collision possible
+[2021.01.15-18.45.41:376][845]LogTemp: Collision possible
+[2021.01.15-18.45.41:385][846]LogTemp: Collision possible
+[2021.01.15-18.45.41:393][847]LogTemp: Collision possible
+[2021.01.15-18.45.41:401][848]LogTemp: Collision possible
+[2021.01.15-18.45.41:410][849]LogTemp: Collision possible
+[2021.01.15-18.45.41:418][850]LogTemp: Collision possible
+[2021.01.15-18.45.41:476][857]LogTemp: Collision possible
+[2021.01.15-18.45.41:485][858]LogTemp: Collision possible
+[2021.01.15-18.45.41:493][859]LogTemp: Collision possible
+[2021.01.15-18.45.41:501][860]LogTemp: Collision possible
+[2021.01.15-18.45.41:510][861]LogTemp: Collision possible
+[2021.01.15-18.45.41:518][862]LogTemp: Collision possible
+[2021.01.15-18.45.41:526][863]LogTemp: Collision possible
+[2021.01.15-18.45.41:535][864]LogTemp: Collision possible
+[2021.01.15-18.45.41:543][865]LogTemp: Collision possible
+[2021.01.15-18.45.41:601][872]LogTemp: Collision possible
+[2021.01.15-18.45.41:610][873]LogTemp: Collision possible
+[2021.01.15-18.45.41:618][874]LogTemp: Collision possible
+[2021.01.15-18.45.41:626][875]LogTemp: Collision possible
+[2021.01.15-18.45.41:635][876]LogTemp: Collision possible
+[2021.01.15-18.45.41:643][877]LogTemp: Collision possible
+[2021.01.15-18.45.41:651][878]LogTemp: Collision possible
+[2021.01.15-18.45.41:660][879]LogTemp: Collision possible
+[2021.01.15-18.45.41:668][880]LogTemp: Collision possible
+[2021.01.15-18.45.41:726][887]LogTemp: Collision possible
+[2021.01.15-18.45.41:734][888]LogTemp: Collision possible
+[2021.01.15-18.45.41:743][889]LogTemp: Collision possible
+[2021.01.15-18.45.41:751][890]LogTemp: Collision possible
+[2021.01.15-18.45.41:759][891]LogTemp: Collision possible
+[2021.01.15-18.45.41:768][892]LogTemp: Collision possible
+[2021.01.15-18.45.41:776][893]LogTemp: Collision possible
+[2021.01.15-18.45.41:785][894]LogTemp: Collision possible
+[2021.01.15-18.45.41:853][902]LogTemp: Collision possible
+[2021.01.15-18.45.41:860][903]LogTemp: Collision possible
+[2021.01.15-18.45.41:868][904]LogTemp: Collision possible
+[2021.01.15-18.45.41:877][905]LogTemp: Collision possible
+[2021.01.15-18.45.41:885][906]LogTemp: Collision possible
+[2021.01.15-18.45.41:893][907]LogTemp: Collision possible
+[2021.01.15-18.45.41:901][908]LogTemp: Collision possible
+[2021.01.15-18.45.41:910][909]LogTemp: Collision possible
+[2021.01.15-18.45.41:968][916]LogTemp: Collision possible
+[2021.01.15-18.45.41:976][917]LogTemp: Collision possible
+[2021.01.15-18.45.41:985][918]LogTemp: Collision possible
+[2021.01.15-18.45.41:993][919]LogTemp: Collision possible
+[2021.01.15-18.45.42:001][920]LogTemp: Collision possible
+[2021.01.15-18.45.42:009][921]LogTemp: Collision possible
+[2021.01.15-18.45.42:018][922]LogTemp: Collision possible
+[2021.01.15-18.45.42:026][923]LogTemp: Collision possible
+[2021.01.15-18.45.42:034][924]LogTemp: Collision possible
+[2021.01.15-18.45.42:152][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.42:152][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.42:186][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.45.42:187][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.42:213][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.42:257][943]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.01.15-18.45.42:904][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticSphere (StaticSphere1)
+[2021.01.15-18.45.48:657][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2021.01.15-18.45.48:719][686]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2021.01.15-18.45.48:722][686]Candidate modules for hot reload:
+[2021.01.15-18.45.48:723][686]  PhysicsSim_UE
+[2021.01.15-18.45.48:723][686]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=PhysicsSim_UE,1137 Win64 Development -TargetType=Editor -Project="../../../../../../Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/PhysicsSim_UE.uproject" -canskiplink "C:/Users/betha/Documents/GitHub/PhysicsSimulation/PhysicsSim_UE/PhysicsSim_UE.uproject" ]
+[2021.01.15-18.45.48:725][686]Warning: Starting HotReload took  0.0s.
+[2021.01.15-18.45.54:207][342]CompilerResultsLog: New page: Compilation - 15 Jan 2021 18:45:54
+[2021.01.15-18.45.54:208][342]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\betha\Documents\GitHub\PhysicsSimulation).
+[2021.01.15-18.45.54:208][342]CompilerResultsLog: Creating makefile for hot reloading PhysicsSim_UEEditor (source directory changed)
+[2021.01.15-18.45.54:208][342]CompilerResultsLog: Compiling game modules for hot reload
+[2021.01.15-18.45.54:208][342]CompilerResultsLog: Using Visual Studio 2017 14.28.29333 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2021.01.15-18.45.54:209][342]CompilerResultsLog: Target is up to date
+[2021.01.15-18.45.54:209][342]CompilerResultsLog: Total build time: 5.29 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2021.01.15-18.45.54:209][342]LogMainFrame: MainFrame: Module compiling took 5.490 seconds
+[2021.01.15-18.45.54:243][342]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2657 classes and 624 folders.
+[2021.01.15-18.45.54:244][342]Display: HotReload took  5.5s.
+[2021.01.15-18.45.55:292][467]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.45.55:299][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.55:300][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.45.55:300][467]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:45:55)
+[2021.01.15-18.45.55:300][467]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.45.55:303][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002207s)
+[2021.01.15-18.45.55:303][467]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.45.55:304][467]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2021.01.15-18.45.55:304][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003470s)
+[2021.01.15-18.45.55:339][467]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.45.55:347][467]LogInit: FAudioDevice initialized.
+[2021.01.15-18.45.55:378][467]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.45.55:379][467]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.45.55
+[2021.01.15-18.45.55:379][467]LogWorld: Bringing up level for play took: 0.000731
+[2021.01.15-18.45.55:392][467]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.248
+[2021.01.15-18.45.55:393][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.55:393][467]LogTemp: Collision possible
+[2021.01.15-18.45.55:463][474]LogTemp: Collision possible
+[2021.01.15-18.45.55:471][475]LogTemp: Collision possible
+[2021.01.15-18.45.55:479][476]LogTemp: Collision possible
+[2021.01.15-18.45.55:488][477]LogTemp: Collision possible
+[2021.01.15-18.45.55:496][478]LogTemp: Collision possible
+[2021.01.15-18.45.55:504][479]LogTemp: Collision possible
+[2021.01.15-18.45.55:513][480]LogTemp: Collision possible
+[2021.01.15-18.45.55:521][481]LogTemp: Collision possible
+[2021.01.15-18.45.55:588][489]LogTemp: Collision possible
+[2021.01.15-18.45.55:596][490]LogTemp: Collision possible
+[2021.01.15-18.45.55:604][491]LogTemp: Collision possible
+[2021.01.15-18.45.55:613][492]LogTemp: Collision possible
+[2021.01.15-18.45.55:621][493]LogTemp: Collision possible
+[2021.01.15-18.45.55:629][494]LogTemp: Collision possible
+[2021.01.15-18.45.55:638][495]LogTemp: Collision possible
+[2021.01.15-18.45.55:646][496]LogTemp: Collision possible
+[2021.01.15-18.45.55:705][503]LogTemp: Collision possible
+[2021.01.15-18.45.55:713][504]LogTemp: Collision possible
+[2021.01.15-18.45.55:721][505]LogTemp: Collision possible
+[2021.01.15-18.45.55:729][506]LogTemp: Collision possible
+[2021.01.15-18.45.55:738][507]LogTemp: Collision possible
+[2021.01.15-18.45.55:746][508]LogTemp: Collision possible
+[2021.01.15-18.45.55:755][509]LogTemp: Collision possible
+[2021.01.15-18.45.55:763][510]LogTemp: Collision possible
+[2021.01.15-18.45.55:771][511]LogTemp: Collision possible
+[2021.01.15-18.45.55:830][518]LogTemp: Collision possible
+[2021.01.15-18.45.55:838][519]LogTemp: Collision possible
+[2021.01.15-18.45.55:846][520]LogTemp: Collision possible
+[2021.01.15-18.45.55:854][521]LogTemp: Collision possible
+[2021.01.15-18.45.55:863][522]LogTemp: Collision possible
+[2021.01.15-18.45.55:871][523]LogTemp: Collision possible
+[2021.01.15-18.45.55:879][524]LogTemp: Collision possible
+[2021.01.15-18.45.55:888][525]LogTemp: Collision possible
+[2021.01.15-18.45.55:955][533]LogTemp: Collision possible
+[2021.01.15-18.45.55:963][534]LogTemp: Collision possible
+[2021.01.15-18.45.55:971][535]LogTemp: Collision possible
+[2021.01.15-18.45.55:980][536]LogTemp: Collision possible
+[2021.01.15-18.45.55:988][537]LogTemp: Collision possible
+[2021.01.15-18.45.55:996][538]LogTemp: Collision possible
+[2021.01.15-18.45.56:005][539]LogTemp: Collision possible
+[2021.01.15-18.45.56:013][540]LogTemp: Collision possible
+[2021.01.15-18.45.56:071][547]LogTemp: Collision possible
+[2021.01.15-18.45.56:079][548]LogTemp: Collision possible
+[2021.01.15-18.45.56:088][549]LogTemp: Collision possible
+[2021.01.15-18.45.56:096][550]LogTemp: Collision possible
+[2021.01.15-18.45.56:104][551]LogTemp: Collision possible
+[2021.01.15-18.45.56:113][552]LogTemp: Collision possible
+[2021.01.15-18.45.56:121][553]LogTemp: Collision possible
+[2021.01.15-18.45.56:129][554]LogTemp: Collision possible
+[2021.01.15-18.45.56:138][555]LogTemp: Collision possible
+[2021.01.15-18.45.56:196][562]LogTemp: Collision possible
+[2021.01.15-18.45.56:204][563]LogTemp: Collision possible
+[2021.01.15-18.45.56:213][564]LogTemp: Collision possible
+[2021.01.15-18.45.56:221][565]LogTemp: Collision possible
+[2021.01.15-18.45.56:229][566]LogTemp: Collision possible
+[2021.01.15-18.45.56:238][567]LogTemp: Collision possible
+[2021.01.15-18.45.56:246][568]LogTemp: Collision possible
+[2021.01.15-18.45.56:254][569]LogTemp: Collision possible
+[2021.01.15-18.45.56:321][577]LogTemp: Collision possible
+[2021.01.15-18.45.56:329][578]LogTemp: Collision possible
+[2021.01.15-18.45.56:338][579]LogTemp: Collision possible
+[2021.01.15-18.45.56:346][580]LogTemp: Collision possible
+[2021.01.15-18.45.56:354][581]LogTemp: Collision possible
+[2021.01.15-18.45.56:363][582]LogTemp: Collision possible
+[2021.01.15-18.45.56:371][583]LogTemp: Collision possible
+[2021.01.15-18.45.56:379][584]LogTemp: Collision possible
+[2021.01.15-18.45.56:438][591]LogTemp: Collision possible
+[2021.01.15-18.45.56:446][592]LogTemp: Collision possible
+[2021.01.15-18.45.56:454][593]LogTemp: Collision possible
+[2021.01.15-18.45.56:463][594]LogTemp: Collision possible
+[2021.01.15-18.45.56:471][595]LogTemp: Collision possible
+[2021.01.15-18.45.56:479][596]LogTemp: Collision possible
+[2021.01.15-18.45.56:488][597]LogTemp: Collision possible
+[2021.01.15-18.45.56:496][598]LogTemp: Collision possible
+[2021.01.15-18.45.56:504][599]LogTemp: Collision possible
+[2021.01.15-18.45.56:564][606]LogTemp: Collision possible
+[2021.01.15-18.45.56:572][607]LogTemp: Collision possible
+[2021.01.15-18.45.56:580][608]LogTemp: Collision possible
+[2021.01.15-18.45.56:588][609]LogTemp: Collision possible
+[2021.01.15-18.45.56:596][610]LogTemp: Collision possible
+[2021.01.15-18.45.56:605][611]LogTemp: Collision possible
+[2021.01.15-18.45.56:613][612]LogTemp: Collision possible
+[2021.01.15-18.45.56:622][613]LogTemp: Collision possible
+[2021.01.15-18.45.56:630][614]LogTemp: Collision possible
+[2021.01.15-18.45.56:688][621]LogTemp: Collision possible
+[2021.01.15-18.45.56:696][622]LogTemp: Collision possible
+[2021.01.15-18.45.56:705][623]LogTemp: Collision possible
+[2021.01.15-18.45.56:713][624]LogTemp: Collision possible
+[2021.01.15-18.45.56:722][625]LogTemp: Collision possible
+[2021.01.15-18.45.56:730][626]LogTemp: Collision possible
+[2021.01.15-18.45.56:739][627]LogTemp: Collision possible
+[2021.01.15-18.45.56:747][628]LogTemp: Collision possible
+[2021.01.15-18.45.56:813][636]LogTemp: Collision possible
+[2021.01.15-18.45.56:821][637]LogTemp: Collision possible
+[2021.01.15-18.45.56:829][638]LogTemp: Collision possible
+[2021.01.15-18.45.56:838][639]LogTemp: Collision possible
+[2021.01.15-18.45.56:846][640]LogTemp: Collision possible
+[2021.01.15-18.45.56:854][641]LogTemp: Collision possible
+[2021.01.15-18.45.56:863][642]LogTemp: Collision possible
+[2021.01.15-18.45.56:871][643]LogTemp: Collision possible
+[2021.01.15-18.45.56:929][650]LogTemp: Collision possible
+[2021.01.15-18.45.56:938][651]LogTemp: Collision possible
+[2021.01.15-18.45.56:946][652]LogTemp: Collision possible
+[2021.01.15-18.45.56:954][653]LogTemp: Collision possible
+[2021.01.15-18.45.56:963][654]LogTemp: Collision possible
+[2021.01.15-18.45.56:971][655]LogTemp: Collision possible
+[2021.01.15-18.45.56:979][656]LogTemp: Collision possible
+[2021.01.15-18.45.56:988][657]LogTemp: Collision possible
+[2021.01.15-18.45.56:996][658]LogTemp: Collision possible
+[2021.01.15-18.45.57:054][665]LogTemp: Collision possible
+[2021.01.15-18.45.57:063][666]LogTemp: Collision possible
+[2021.01.15-18.45.57:071][667]LogTemp: Collision possible
+[2021.01.15-18.45.57:080][668]LogTemp: Collision possible
+[2021.01.15-18.45.57:088][669]LogTemp: Collision possible
+[2021.01.15-18.45.57:096][670]LogTemp: Collision possible
+[2021.01.15-18.45.57:104][671]LogTemp: Collision possible
+[2021.01.15-18.45.57:113][672]LogTemp: Collision possible
+[2021.01.15-18.45.57:179][680]LogTemp: Collision possible
+[2021.01.15-18.45.57:188][681]LogTemp: Collision possible
+[2021.01.15-18.45.57:196][682]LogTemp: Collision possible
+[2021.01.15-18.45.57:204][683]LogTemp: Collision possible
+[2021.01.15-18.45.57:213][684]LogTemp: Collision possible
+[2021.01.15-18.45.57:221][685]LogTemp: Collision possible
+[2021.01.15-18.45.57:229][686]LogTemp: Collision possible
+[2021.01.15-18.45.57:238][687]LogTemp: Collision possible
+[2021.01.15-18.45.57:296][694]LogTemp: Collision possible
+[2021.01.15-18.45.57:305][695]LogTemp: Collision possible
+[2021.01.15-18.45.57:313][696]LogTemp: Collision possible
+[2021.01.15-18.45.57:321][697]LogTemp: Collision possible
+[2021.01.15-18.45.57:329][698]LogTemp: Collision possible
+[2021.01.15-18.45.57:338][699]LogTemp: Collision possible
+[2021.01.15-18.45.57:346][700]LogTemp: Collision possible
+[2021.01.15-18.45.57:354][701]LogTemp: Collision possible
+[2021.01.15-18.45.57:363][702]LogTemp: Collision possible
+[2021.01.15-18.45.57:421][709]LogTemp: Collision possible
+[2021.01.15-18.45.57:430][710]LogTemp: Collision possible
+[2021.01.15-18.45.57:438][711]LogTemp: Collision possible
+[2021.01.15-18.45.57:446][712]LogTemp: Collision possible
+[2021.01.15-18.45.57:455][713]LogTemp: Collision possible
+[2021.01.15-18.45.57:463][714]LogTemp: Collision possible
+[2021.01.15-18.45.57:471][715]LogTemp: Collision possible
+[2021.01.15-18.45.57:480][716]LogTemp: Collision possible
+[2021.01.15-18.45.57:546][724]LogTemp: Collision possible
+[2021.01.15-18.45.57:554][725]LogTemp: Collision possible
+[2021.01.15-18.45.57:563][726]LogTemp: Collision possible
+[2021.01.15-18.45.57:571][727]LogTemp: Collision possible
+[2021.01.15-18.45.57:579][728]LogTemp: Collision possible
+[2021.01.15-18.45.57:588][729]LogTemp: Collision possible
+[2021.01.15-18.45.57:596][730]LogTemp: Collision possible
+[2021.01.15-18.45.57:604][731]LogTemp: Collision possible
+[2021.01.15-18.45.57:663][738]LogTemp: Collision possible
+[2021.01.15-18.45.57:674][739]LogTemp: Collision possible
+[2021.01.15-18.45.57:680][740]LogTemp: Collision possible
+[2021.01.15-18.45.57:689][741]LogTemp: Collision possible
+[2021.01.15-18.45.57:697][742]LogTemp: Collision possible
+[2021.01.15-18.45.57:705][743]LogTemp: Collision possible
+[2021.01.15-18.45.57:714][744]LogTemp: Collision possible
+[2021.01.15-18.45.57:722][745]LogTemp: Collision possible
+[2021.01.15-18.45.57:730][746]LogTemp: Collision possible
+[2021.01.15-18.45.57:788][753]LogTemp: Collision possible
+[2021.01.15-18.45.57:796][754]LogTemp: Collision possible
+[2021.01.15-18.45.57:804][755]LogTemp: Collision possible
+[2021.01.15-18.45.57:813][756]LogTemp: Collision possible
+[2021.01.15-18.45.57:821][757]LogTemp: Collision possible
+[2021.01.15-18.45.57:830][758]LogTemp: Collision possible
+[2021.01.15-18.45.57:838][759]LogTemp: Collision possible
+[2021.01.15-18.45.57:846][760]LogTemp: Collision possible
+[2021.01.15-18.45.57:854][761]LogTemp: Collision possible
+[2021.01.15-18.45.57:913][768]LogTemp: Collision possible
+[2021.01.15-18.45.57:921][769]LogTemp: Collision possible
+[2021.01.15-18.45.57:929][770]LogTemp: Collision possible
+[2021.01.15-18.45.57:938][771]LogTemp: Collision possible
+[2021.01.15-18.45.57:946][772]LogTemp: Collision possible
+[2021.01.15-18.45.57:954][773]LogTemp: Collision possible
+[2021.01.15-18.45.57:963][774]LogTemp: Collision possible
+[2021.01.15-18.45.57:971][775]LogTemp: Collision possible
+[2021.01.15-18.45.58:029][782]LogTemp: Collision possible
+[2021.01.15-18.45.58:038][783]LogTemp: Collision possible
+[2021.01.15-18.45.58:046][784]LogTemp: Collision possible
+[2021.01.15-18.45.58:054][785]LogTemp: Collision possible
+[2021.01.15-18.45.58:063][786]LogTemp: Collision possible
+[2021.01.15-18.45.58:071][787]LogTemp: Collision possible
+[2021.01.15-18.45.58:079][788]LogTemp: Collision possible
+[2021.01.15-18.45.58:088][789]LogTemp: Collision possible
+[2021.01.15-18.45.58:096][790]LogTemp: Collision possible
+[2021.01.15-18.45.58:154][797]LogTemp: Collision possible
+[2021.01.15-18.45.58:163][798]LogTemp: Collision possible
+[2021.01.15-18.45.58:171][799]LogTemp: Collision possible
+[2021.01.15-18.45.58:179][800]LogTemp: Collision possible
+[2021.01.15-18.45.58:188][801]LogTemp: Collision possible
+[2021.01.15-18.45.58:196][802]LogTemp: Collision possible
+[2021.01.15-18.45.58:204][803]LogTemp: Collision possible
+[2021.01.15-18.45.58:213][804]LogTemp: Collision possible
+[2021.01.15-18.45.58:221][805]LogTemp: Collision possible
+[2021.01.15-18.45.58:380][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.58:381][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.58:417][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.45.58:417][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.45.58:445][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.45.58:482][828]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2021.01.15-18.46.01:572][198]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.46.01:578][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.01:579][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.46.01:579][198]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:46:01)
+[2021.01.15-18.46.01:580][198]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.46.01:582][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002249s)
+[2021.01.15-18.46.01:583][198]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.46.01:583][198]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2021.01.15-18.46.01:583][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003555s)
+[2021.01.15-18.46.01:619][198]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.46.01:627][198]LogInit: FAudioDevice initialized.
+[2021.01.15-18.46.01:660][198]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.46.01:661][198]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.46.01
+[2021.01.15-18.46.01:661][198]LogWorld: Bringing up level for play took: 0.000768
+[2021.01.15-18.46.01:674][198]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.53
+[2021.01.15-18.46.01:675][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.01:676][198]LogTemp: Collision possible
+[2021.01.15-18.46.01:743][205]LogTemp: Collision possible
+[2021.01.15-18.46.01:752][206]LogTemp: Collision possible
+[2021.01.15-18.46.01:760][207]LogTemp: Collision possible
+[2021.01.15-18.46.01:768][208]LogTemp: Collision possible
+[2021.01.15-18.46.01:777][209]LogTemp: Collision possible
+[2021.01.15-18.46.01:785][210]LogTemp: Collision possible
+[2021.01.15-18.46.01:793][211]LogTemp: Collision possible
+[2021.01.15-18.46.01:802][212]LogTemp: Collision possible
+[2021.01.15-18.46.01:868][220]LogTemp: Collision possible
+[2021.01.15-18.46.01:877][221]LogTemp: Collision possible
+[2021.01.15-18.46.01:885][222]LogTemp: Collision possible
+[2021.01.15-18.46.01:893][223]LogTemp: Collision possible
+[2021.01.15-18.46.01:902][224]LogTemp: Collision possible
+[2021.01.15-18.46.01:910][225]LogTemp: Collision possible
+[2021.01.15-18.46.01:918][226]LogTemp: Collision possible
+[2021.01.15-18.46.01:927][227]LogTemp: Collision possible
+[2021.01.15-18.46.01:985][234]LogTemp: Collision possible
+[2021.01.15-18.46.01:994][235]LogTemp: Collision possible
+[2021.01.15-18.46.02:002][236]LogTemp: Collision possible
+[2021.01.15-18.46.02:010][237]LogTemp: Collision possible
+[2021.01.15-18.46.02:018][238]LogTemp: Collision possible
+[2021.01.15-18.46.02:027][239]LogTemp: Collision possible
+[2021.01.15-18.46.02:035][240]LogTemp: Collision possible
+[2021.01.15-18.46.02:043][241]LogTemp: Collision possible
+[2021.01.15-18.46.02:052][242]LogTemp: Collision possible
+[2021.01.15-18.46.02:110][249]LogTemp: Collision possible
+[2021.01.15-18.46.02:118][250]LogTemp: Collision possible
+[2021.01.15-18.46.02:127][251]LogTemp: Collision possible
+[2021.01.15-18.46.02:135][252]LogTemp: Collision possible
+[2021.01.15-18.46.02:144][253]LogTemp: Collision possible
+[2021.01.15-18.46.02:152][254]LogTemp: Collision possible
+[2021.01.15-18.46.02:160][255]LogTemp: Collision possible
+[2021.01.15-18.46.02:168][256]LogTemp: Collision possible
+[2021.01.15-18.46.02:235][264]LogTemp: Collision possible
+[2021.01.15-18.46.02:243][265]LogTemp: Collision possible
+[2021.01.15-18.46.02:252][266]LogTemp: Collision possible
+[2021.01.15-18.46.02:260][267]LogTemp: Collision possible
+[2021.01.15-18.46.02:268][268]LogTemp: Collision possible
+[2021.01.15-18.46.02:277][269]LogTemp: Collision possible
+[2021.01.15-18.46.02:285][270]LogTemp: Collision possible
+[2021.01.15-18.46.02:293][271]LogTemp: Collision possible
+[2021.01.15-18.46.02:352][278]LogTemp: Collision possible
+[2021.01.15-18.46.02:360][279]LogTemp: Collision possible
+[2021.01.15-18.46.02:368][280]LogTemp: Collision possible
+[2021.01.15-18.46.02:377][281]LogTemp: Collision possible
+[2021.01.15-18.46.02:385][282]LogTemp: Collision possible
+[2021.01.15-18.46.02:394][283]LogTemp: Collision possible
+[2021.01.15-18.46.02:402][284]LogTemp: Collision possible
+[2021.01.15-18.46.02:410][285]LogTemp: Collision possible
+[2021.01.15-18.46.02:419][286]LogTemp: Collision possible
+[2021.01.15-18.46.02:478][293]LogTemp: Collision possible
+[2021.01.15-18.46.02:486][294]LogTemp: Collision possible
+[2021.01.15-18.46.02:494][295]LogTemp: Collision possible
+[2021.01.15-18.46.02:503][296]LogTemp: Collision possible
+[2021.01.15-18.46.02:511][297]LogTemp: Collision possible
+[2021.01.15-18.46.02:519][298]LogTemp: Collision possible
+[2021.01.15-18.46.02:528][299]LogTemp: Collision possible
+[2021.01.15-18.46.02:536][300]LogTemp: Collision possible
+[2021.01.15-18.46.02:602][308]LogTemp: Collision possible
+[2021.01.15-18.46.02:610][309]LogTemp: Collision possible
+[2021.01.15-18.46.02:619][310]LogTemp: Collision possible
+[2021.01.15-18.46.02:627][311]LogTemp: Collision possible
+[2021.01.15-18.46.02:635][312]LogTemp: Collision possible
+[2021.01.15-18.46.02:644][313]LogTemp: Collision possible
+[2021.01.15-18.46.02:652][314]LogTemp: Collision possible
+[2021.01.15-18.46.02:661][315]LogTemp: Collision possible
+[2021.01.15-18.46.02:719][322]LogTemp: Collision possible
+[2021.01.15-18.46.02:727][323]LogTemp: Collision possible
+[2021.01.15-18.46.02:735][324]LogTemp: Collision possible
+[2021.01.15-18.46.02:744][325]LogTemp: Collision possible
+[2021.01.15-18.46.02:752][326]LogTemp: Collision possible
+[2021.01.15-18.46.02:760][327]LogTemp: Collision possible
+[2021.01.15-18.46.02:769][328]LogTemp: Collision possible
+[2021.01.15-18.46.02:777][329]LogTemp: Collision possible
+[2021.01.15-18.46.02:785][330]LogTemp: Collision possible
+[2021.01.15-18.46.02:843][337]LogTemp: Collision possible
+[2021.01.15-18.46.02:935][348]LogTemp: Collision possible
+[2021.01.15-18.46.02:936][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.02:936][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.46.02:967][348]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.46.02:968][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.02:993][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.46.03:038][353]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.01.15-18.46.23:642][823]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.46.23:648][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.23:649][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.46.23:649][823]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:46:23)
+[2021.01.15-18.46.23:649][823]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.46.23:652][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002313s)
+[2021.01.15-18.46.23:653][823]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.46.23:653][823]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2021.01.15-18.46.23:653][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003616s)
+[2021.01.15-18.46.23:689][823]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.46.23:697][823]LogInit: FAudioDevice initialized.
+[2021.01.15-18.46.23:726][823]LogLoad: Game class is 'GameModeBase'
+[2021.01.15-18.46.23:726][823]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.01.15-18.46.23
+[2021.01.15-18.46.23:727][823]LogWorld: Bringing up level for play took: 0.000741
+[2021.01.15-18.46.23:739][823]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.595
+[2021.01.15-18.46.23:740][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.23:740][823]LogTemp: Collision possible
+[2021.01.15-18.46.23:809][830]LogTemp: Collision possible
+[2021.01.15-18.46.23:817][831]LogTemp: Collision possible
+[2021.01.15-18.46.23:826][832]LogTemp: Collision possible
+[2021.01.15-18.46.23:834][833]LogTemp: Collision possible
+[2021.01.15-18.46.23:842][834]LogTemp: Collision possible
+[2021.01.15-18.46.23:851][835]LogTemp: Collision possible
+[2021.01.15-18.46.23:859][836]LogTemp: Collision possible
+[2021.01.15-18.46.23:867][837]LogTemp: Collision possible
+[2021.01.15-18.46.23:934][845]LogTemp: Collision possible
+[2021.01.15-18.46.23:942][846]LogTemp: Collision possible
+[2021.01.15-18.46.23:951][847]LogTemp: Collision possible
+[2021.01.15-18.46.23:959][848]LogTemp: Collision possible
+[2021.01.15-18.46.23:967][849]LogTemp: Collision possible
+[2021.01.15-18.46.23:976][850]LogTemp: Collision possible
+[2021.01.15-18.46.23:984][851]LogTemp: Collision possible
+[2021.01.15-18.46.23:992][852]LogTemp: Collision possible
+[2021.01.15-18.46.24:051][859]LogTemp: Collision possible
+[2021.01.15-18.46.24:059][860]LogTemp: Collision possible
+[2021.01.15-18.46.24:067][861]LogTemp: Collision possible
+[2021.01.15-18.46.24:076][862]LogTemp: Collision possible
+[2021.01.15-18.46.24:084][863]LogTemp: Collision possible
+[2021.01.15-18.46.24:092][864]LogTemp: Collision possible
+[2021.01.15-18.46.24:101][865]LogTemp: Collision possible
+[2021.01.15-18.46.24:109][866]LogTemp: Collision possible
+[2021.01.15-18.46.24:117][867]LogTemp: Collision possible
+[2021.01.15-18.46.24:176][874]LogTemp: Collision possible
+[2021.01.15-18.46.24:184][875]LogTemp: Collision possible
+[2021.01.15-18.46.24:192][876]LogTemp: Collision possible
+[2021.01.15-18.46.24:201][877]LogTemp: Collision possible
+[2021.01.15-18.46.24:209][878]LogTemp: Collision possible
+[2021.01.15-18.46.24:217][879]LogTemp: Collision possible
+[2021.01.15-18.46.24:226][880]LogTemp: Collision possible
+[2021.01.15-18.46.24:234][881]LogTemp: Collision possible
+[2021.01.15-18.46.24:301][889]LogTemp: Collision possible
+[2021.01.15-18.46.24:309][890]LogTemp: Collision possible
+[2021.01.15-18.46.24:317][891]LogTemp: Collision possible
+[2021.01.15-18.46.24:326][892]LogTemp: Collision possible
+[2021.01.15-18.46.24:334][893]LogTemp: Collision possible
+[2021.01.15-18.46.24:342][894]LogTemp: Collision possible
+[2021.01.15-18.46.24:351][895]LogTemp: Collision possible
+[2021.01.15-18.46.24:359][896]LogTemp: Collision possible
+[2021.01.15-18.46.24:417][903]LogTemp: Collision possible
+[2021.01.15-18.46.24:426][904]LogTemp: Collision possible
+[2021.01.15-18.46.24:434][905]LogTemp: Collision possible
+[2021.01.15-18.46.24:442][906]LogTemp: Collision possible
+[2021.01.15-18.46.24:451][907]LogTemp: Collision possible
+[2021.01.15-18.46.24:459][908]LogTemp: Collision possible
+[2021.01.15-18.46.24:467][909]LogTemp: Collision possible
+[2021.01.15-18.46.24:476][910]LogTemp: Collision possible
+[2021.01.15-18.46.24:484][911]LogTemp: Collision possible
+[2021.01.15-18.46.24:542][918]LogTemp: Collision possible
+[2021.01.15-18.46.24:551][919]LogTemp: Collision possible
+[2021.01.15-18.46.24:559][920]LogTemp: Collision possible
+[2021.01.15-18.46.24:569][921]LogTemp: Collision possible
+[2021.01.15-18.46.24:576][922]LogTemp: Collision possible
+[2021.01.15-18.46.24:584][923]LogTemp: Collision possible
+[2021.01.15-18.46.24:593][924]LogTemp: Collision possible
+[2021.01.15-18.46.24:601][925]LogTemp: Collision possible
+[2021.01.15-18.46.24:665][933]LogTemp: Collision possible
+[2021.01.15-18.46.24:676][934]LogTemp: Collision possible
+[2021.01.15-18.46.24:685][935]LogTemp: Collision possible
+[2021.01.15-18.46.24:693][936]LogTemp: Collision possible
+[2021.01.15-18.46.24:701][937]LogTemp: Collision possible
+[2021.01.15-18.46.24:710][938]LogTemp: Collision possible
+[2021.01.15-18.46.24:718][939]LogTemp: Collision possible
+[2021.01.15-18.46.24:726][940]LogTemp: Collision possible
+[2021.01.15-18.46.24:784][947]LogTemp: Collision possible
+[2021.01.15-18.46.24:793][948]LogTemp: Collision possible
+[2021.01.15-18.46.24:801][949]LogTemp: Collision possible
+[2021.01.15-18.46.24:809][950]LogTemp: Collision possible
+[2021.01.15-18.46.24:818][951]LogTemp: Collision possible
+[2021.01.15-18.46.24:827][952]LogTemp: Collision possible
+[2021.01.15-18.46.24:835][953]LogTemp: Collision possible
+[2021.01.15-18.46.24:843][954]LogTemp: Collision possible
+[2021.01.15-18.46.24:851][955]LogTemp: Collision possible
+[2021.01.15-18.46.24:909][962]LogTemp: Collision possible
+[2021.01.15-18.46.24:917][963]LogTemp: Collision possible
+[2021.01.15-18.46.24:926][964]LogTemp: Collision possible
+[2021.01.15-18.46.24:934][965]LogTemp: Collision possible
+[2021.01.15-18.46.24:942][966]LogTemp: Collision possible
+[2021.01.15-18.46.24:951][967]LogTemp: Collision possible
+[2021.01.15-18.46.24:959][968]LogTemp: Collision possible
+[2021.01.15-18.46.24:967][969]LogTemp: Collision possible
+[2021.01.15-18.46.24:976][970]LogTemp: Collision possible
+[2021.01.15-18.46.25:034][977]LogTemp: Collision possible
+[2021.01.15-18.46.25:042][978]LogTemp: Collision possible
+[2021.01.15-18.46.25:050][979]LogTemp: Collision possible
+[2021.01.15-18.46.25:059][980]LogTemp: Collision possible
+[2021.01.15-18.46.25:067][981]LogTemp: Collision possible
+[2021.01.15-18.46.25:076][982]LogTemp: Collision possible
+[2021.01.15-18.46.25:084][983]LogTemp: Collision possible
+[2021.01.15-18.46.25:093][984]LogTemp: Collision possible
+[2021.01.15-18.46.25:159][992]LogTemp: Collision possible
+[2021.01.15-18.46.25:167][993]LogTemp: Collision possible
+[2021.01.15-18.46.25:175][994]LogTemp: Collision possible
+[2021.01.15-18.46.25:184][995]LogTemp: Collision possible
+[2021.01.15-18.46.25:192][996]LogTemp: Collision possible
+[2021.01.15-18.46.25:200][997]LogTemp: Collision possible
+[2021.01.15-18.46.25:209][998]LogTemp: Collision possible
+[2021.01.15-18.46.25:217][999]LogTemp: Collision possible
+[2021.01.15-18.46.25:318][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.25:319][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.46.25:352][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.15-18.46.25:353][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.25:378][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.15-18.46.25:422][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.15-18.46.40:211][544]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.15-18.46.40:217][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2021.01.15-18.46.40:218][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.15-18.46.40:218][544]PIE: New page: PIE session: Minimal_Default (15 Jan 2021 18:46:40)
+[2021.01.15-18.46.40:218][544]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.01.15-18.46.40:221][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002286s)
+[2021.01.15-18.46.40:221][544]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.01.15-18.46.40:222][544]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2021.01.15-18.46.40:222][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003589s)
+[2021.01.15-18.46.40:257][544]LogInit: XAudio2 using 'Speakers (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.01.15-18.46.40:265][544]LogInit: FAudioDevice initialized.
