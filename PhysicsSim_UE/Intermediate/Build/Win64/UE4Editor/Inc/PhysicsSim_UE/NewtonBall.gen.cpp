@@ -17,6 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeNewtonBall() {}
 	PHYSICSSIM_UE_API UClass* Z_Construct_UClass_ANewtonBall();
 	ENGINE_API UClass* Z_Construct_UClass_AActor();
 	UPackage* Z_Construct_UPackage__Script_PhysicsSim_UE();
+	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
 // End Cross Module References
 	void ANewtonBall::StaticRegisterNativesANewtonBall()
 	{
@@ -32,9 +33,9 @@ void EmptyLinkFunctionForGeneratedCodeNewtonBall() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[];
 #endif
 #if WITH_METADATA
-		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_v_MetaData[];
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_startVel_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_v;
+		static const UE4CodeGen_Private::FStructPropertyParams NewProp_startVel;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -50,14 +51,14 @@ void EmptyLinkFunctionForGeneratedCodeNewtonBall() {}
 	};
 #endif
 #if WITH_METADATA
-	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANewtonBall_Statics::NewProp_v_MetaData[] = {
-		{ "Category", "n_Ball" },
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ANewtonBall_Statics::NewProp_startVel_MetaData[] = {
+		{ "Category", "Ball Properties" },
 		{ "ModuleRelativePath", "NewtonBall.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ANewtonBall_Statics::NewProp_v = { UE4CodeGen_Private::EPropertyClass::Float, "v", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0020080000000001, 1, nullptr, STRUCT_OFFSET(ANewtonBall, v), METADATA_PARAMS(Z_Construct_UClass_ANewtonBall_Statics::NewProp_v_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANewtonBall_Statics::NewProp_v_MetaData)) };
+	const UE4CodeGen_Private::FStructPropertyParams Z_Construct_UClass_ANewtonBall_Statics::NewProp_startVel = { UE4CodeGen_Private::EPropertyClass::Struct, "startVel", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0020080000000001, 1, nullptr, STRUCT_OFFSET(ANewtonBall, startVel), Z_Construct_UScriptStruct_FVector, METADATA_PARAMS(Z_Construct_UClass_ANewtonBall_Statics::NewProp_startVel_MetaData, ARRAY_COUNT(Z_Construct_UClass_ANewtonBall_Statics::NewProp_startVel_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ANewtonBall_Statics::PropPointers[] = {
-		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANewtonBall_Statics::NewProp_v,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ANewtonBall_Statics::NewProp_startVel,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ANewtonBall_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ANewtonBall>::IsAbstract,
@@ -82,7 +83,7 @@ void EmptyLinkFunctionForGeneratedCodeNewtonBall() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ANewtonBall, 413335715);
+	IMPLEMENT_CLASS(ANewtonBall, 3555601793);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ANewtonBall(Z_Construct_UClass_ANewtonBall, &ANewtonBall::StaticClass, TEXT("/Script/PhysicsSim_UE"), TEXT("ANewtonBall"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ANewtonBall);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

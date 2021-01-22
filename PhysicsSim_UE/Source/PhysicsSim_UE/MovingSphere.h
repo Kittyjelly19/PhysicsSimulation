@@ -14,29 +14,49 @@ class PHYSICSSIM_UE_API AMovingSphere : public AEulerBall
 {
 	GENERATED_BODY()
 
+
 public:
-		// Called every frame
-		virtual void Tick(float DeltaTime) override;
 
+	// Called every frame
+	virtual void Tick(float DeltaTime) override;
 
-		UPROPERTY(VisibleAnywhere)
-		int movingSphereRadius = 50.f;
+	virtual void BeginPlay() override;
 
-		UPROPERTY(EditAnywhere)
+	UPROPERTY(VisibleAnywhere)
+		float movingSphereRadius = 50.0f;
+
+	UPROPERTY(EditAnywhere)
 		class AStaticSphere* statSphereInstance;
 
-		UFUNCTION()
-			void CollisionDetection();
+	UPROPERTY(EditAnywhere)
+		class ACollisionPlane* planeInstance;
 
-		//The vector frpm the centre of moving sphere to centre of static sphere.
-		FVector a = { 0, 0, 0 };
+	void CollisionDetection();
 
-		//Velocity is in Euler ball
+	bool hasHitPlane();
 
-		float q = 0.f;
-		float d;
+	//The vector frpm the centre of moving sphere to centre of static sphere.
+	FVector A = { 0, 0, 0 };
 
-		float qInDegrees = 0.f;
+	//Velocity is in Euler ball
 
-		//float dotOfAandV = 0;
+	FVector normalizedVelocity = { 0, 0, 0 };
+
+	float q = 0.0f;
+	float distanceOfClosestApproach = 0.0f;
+
+	float qInDegrees = 0.0f;
+
+	float e = 0.0f;
+
+	float sumRadii = 0.0f;
+	float sumRadiiSquared = 0.0f;
+
+	FVector newVelocity = { 0,0,0 };
+	FVector currentVelocity = newVelocity;
+
+	FVector g = { 0,0,-9.8 };
+
+	bool canMove = true;
+
 };

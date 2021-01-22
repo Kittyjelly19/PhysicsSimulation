@@ -39,7 +39,7 @@ void EmptyLinkFunctionForGeneratedCodeStaticSphere() {}
 #if WITH_METADATA
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_staticSphereRadius_MetaData[];
 #endif
-		static const UE4CodeGen_Private::FUnsizedIntPropertyParams NewProp_staticSphereRadius;
+		static const UE4CodeGen_Private::FFloatPropertyParams NewProp_staticSphereRadius;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -66,7 +66,7 @@ void EmptyLinkFunctionForGeneratedCodeStaticSphere() {}
 		{ "ModuleRelativePath", "StaticSphere.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius = { UE4CodeGen_Private::EPropertyClass::Int, "staticSphereRadius", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020001, 1, nullptr, STRUCT_OFFSET(AStaticSphere, staticSphereRadius), METADATA_PARAMS(Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius_MetaData, ARRAY_COUNT(Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius_MetaData)) };
+	const UE4CodeGen_Private::FFloatPropertyParams Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius = { UE4CodeGen_Private::EPropertyClass::Float, "staticSphereRadius", RF_Public|RF_Transient|RF_MarkAsNative, (EPropertyFlags)0x0010000000020001, 1, nullptr, STRUCT_OFFSET(AStaticSphere, staticSphereRadius), METADATA_PARAMS(Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius_MetaData, ARRAY_COUNT(Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_AStaticSphere_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AStaticSphere_Statics::NewProp_startPos2,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_AStaticSphere_Statics::NewProp_staticSphereRadius,
@@ -94,7 +94,7 @@ void EmptyLinkFunctionForGeneratedCodeStaticSphere() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AStaticSphere, 2264876004);
+	IMPLEMENT_CLASS(AStaticSphere, 287726019);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_AStaticSphere(Z_Construct_UClass_AStaticSphere, &AStaticSphere::StaticClass, TEXT("/Script/PhysicsSim_UE"), TEXT("AStaticSphere"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(AStaticSphere);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

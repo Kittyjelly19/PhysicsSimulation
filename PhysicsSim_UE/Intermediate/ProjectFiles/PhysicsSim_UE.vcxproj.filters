@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\PhysicsSim_UE.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6E82357A-C293-489C-A131-C5A3A2B842DF}</UniqueIdentifier>
+      <UniqueIdentifier>{04378D2B-276E-4BBF-98FF-2370BE271EBD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\PhysicsSim_UE.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{4D152F6E-1EB5-4056-9B64-744B51E973BE}</UniqueIdentifier>
+      <UniqueIdentifier>{29F68E64-6981-41CD-AF60-7528DFD1B524}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\PhysicsSim_UE">
-      <UniqueIdentifier>{969E649F-A14A-4C97-A7D8-AEB0BF059D9A}</UniqueIdentifier>
+      <UniqueIdentifier>{17FEB0B9-0F29-483B-B061-A765794F90B2}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\CollisionPlane.cpp">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\CollisionPlane.h">
+      <Filter>Source\PhysicsSim_UE</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\PhysicsSim_UE\EulerBall.cpp">
       <Filter>Source\PhysicsSim_UE</Filter>
     </ClCompile>

@@ -13,9 +13,9 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define PHYSICSSIM_UE_NewtonBall_generated_h
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_RPC_WRAPPERS
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_INCLASS_NO_PURE_DECLS \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_RPC_WRAPPERS
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_RPC_WRAPPERS_NO_PURE_DECLS
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesANewtonBall(); \
 	friend struct Z_Construct_UClass_ANewtonBall_Statics; \
@@ -24,7 +24,7 @@ public: \
 	DECLARE_SERIALIZER(ANewtonBall)
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_INCLASS \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_INCLASS \
 private: \
 	static void StaticRegisterNativesANewtonBall(); \
 	friend struct Z_Construct_UClass_ANewtonBall_Statics; \
@@ -33,7 +33,7 @@ public: \
 	DECLARE_SERIALIZER(ANewtonBall)
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_STANDARD_CONSTRUCTORS \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ANewtonBall(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ANewtonBall) \
@@ -46,7 +46,7 @@ private: \
 public:
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_ENHANCED_CONSTRUCTORS \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ANewtonBall(ANewtonBall&&); \
@@ -57,29 +57,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ANewtonBall); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ANewtonBall)
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__v() { return STRUCT_OFFSET(ANewtonBall, v); }
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__startVel() { return STRUCT_OFFSET(ANewtonBall, startVel); }
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_PROLOG
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_GENERATED_BODY_LEGACY \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_7_PROLOG
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_PRIVATE_PROPERTY_OFFSET \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_RPC_WRAPPERS \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_INCLASS \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_STANDARD_CONSTRUCTORS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_PRIVATE_PROPERTY_OFFSET \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_RPC_WRAPPERS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_INCLASS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_GENERATED_BODY \
+#define PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_PRIVATE_PROPERTY_OFFSET \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_INCLASS_NO_PURE_DECLS \
-	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_13_ENHANCED_CONSTRUCTORS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_PRIVATE_PROPERTY_OFFSET \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_RPC_WRAPPERS_NO_PURE_DECLS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_INCLASS_NO_PURE_DECLS \
+	PhysicsSim_UE_Source_PhysicsSim_UE_NewtonBall_h_10_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

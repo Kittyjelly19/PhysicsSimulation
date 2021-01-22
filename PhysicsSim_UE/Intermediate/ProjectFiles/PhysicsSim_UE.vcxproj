@@ -649,6 +649,8 @@
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
+    <ClCompile Include="..\..\Source\PhysicsSim_UE\CollisionPlane.cpp"/>
+    <ClInclude Include="..\..\Source\PhysicsSim_UE\CollisionPlane.h"/>
     <ClCompile Include="..\..\Source\PhysicsSim_UE\EulerBall.cpp"/>
     <ClInclude Include="..\..\Source\PhysicsSim_UE\EulerBall.h"/>
     <ClCompile Include="..\..\Source\PhysicsSim_UE\MovingSphere.cpp"/>
